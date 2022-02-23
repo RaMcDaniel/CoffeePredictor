@@ -1,0 +1,1314 @@
+,Country.of.Origin,Region,Owner.1,Variety,Aroma,Flavor,Aftertaste,Acidity,Body,Balance,Uniformity,Clean.Cup,Sweetness,Total.Cup.Points
+1,Ethiopia,guji-hambela,metad plc,,8.67,8.83,8.67,8.75,8.5,8.42,10,10,10,90.58
+2,Ethiopia,guji-hambela,metad plc,Other,8.75,8.67,8.5,8.58,8.42,8.42,10,10,10,89.92
+3,Guatemala,,Grounds for Health Admin,Bourbon,8.42,8.5,8.42,8.42,8.33,8.42,10,10,10,89.75
+4,Ethiopia,oromia,Yidnekachew Dabessa,,8.17,8.58,8.42,8.42,8.5,8.25,10,10,10,89
+5,Ethiopia,guji-hambela,metad plc,Other,8.25,8.5,8.25,8.5,8.42,8.33,10,10,10,88.83
+6,Brazil,,Ji-Ae Ahn,,8.58,8.42,8.42,8.5,8.25,8.33,10,10,10,88.83
+7,Peru,,Hugo Valdivia,Other,8.42,8.5,8.33,8.5,8.25,8.25,10,10,10,88.75
+8,Ethiopia,oromia,Ethiopia Commodity Exchange,,8.25,8.33,8.5,8.42,8.33,8.5,10,10,9.33,88.67
+9,Ethiopia,oromiya,Ethiopia Commodity Exchange,,8.67,8.67,8.58,8.42,8.33,8.42,9.33,10,9.33,88.42
+10,Ethiopia,"snnp/kaffa zone,gimbowereda",Diamond Enterprise Plc,Other,8.08,8.58,8.5,8.5,7.67,8.42,10,10,10,88.25
+11,Ethiopia,oromia,Mohammed Lalo,,8.17,8.67,8.25,8.5,7.75,8.17,10,10,10,88.08
+12,United States,antioquia,CQI Q Coffee Sample Representative,Other,8.25,8.42,8.17,8.33,8.08,8.17,10,10,10,87.92
+13,United States,antioquia,CQI Q Coffee Sample Representative,Other,8.08,8.67,8.33,8.42,8,8.08,10,10,10,87.92
+14,United States (Hawaii),kona,Grounds for Health Admin,,8.33,8.42,8.08,8.25,8.25,8,10,10,10,87.92
+15,Ethiopia,oromiya,Ethiopia Commodity Exchange,,8.25,8.33,8.5,8.25,8.58,8.75,9.33,10,9.33,87.83
+16,United States,antioquia,CQI Q Coffee Sample Representative,Other,8,8.5,8.58,8.17,8.17,8,10,10,10,87.58
+17,Indonesia,sulawesi,Grounds for Health Admin,,8.33,8.25,7.83,7.75,8.5,8.42,10,10,10,87.42
+18,Ethiopia,yirgacheffe,Ethiopia Commodity Exchange,,8.17,8.33,8.25,8.33,8.42,8.33,9.33,10,9.33,87.33
+19,China,yunnan,Yunnan Coffee Exchange,Catimor,8.42,8.25,8.08,8.17,7.92,8,10,10,10,87.25
+20,Ethiopia,gedio,EssenceCoffee,Ethiopian Yirgacheffe,8.17,8.17,8,8.17,8.08,8.33,10,10,10,87.25
+21,United States,antioquia,CQI Q Coffee Sample Representative,Other,8,8.25,8.08,8.5,8.25,8,10,10,10,87.25
+22,Costa Rica,san ramon,The Coffee Source Inc.,Caturra,8.08,8.25,8,8.17,8,8.33,10,10,10,87.17
+23,Mexico,xalapa,ROBERTO LICONA FRANCO,Other,8.17,8.25,8.17,8,7.83,8.17,10,10,10,87.17
+24,United States,antioquia,CQI Q Coffee Sample Representative,Other,8.25,8.33,8.17,8.17,7.83,8.17,10,10,10,87.08
+25,Ethiopia,sidamo,Ji-Ae Ahn,,8.42,8.17,7.92,8.17,8.33,8,10,10,10,87.08
+26,Brazil,south of minas,NUCOFFEE,Bourbon,8.5,8.5,8,8,8,8,10,10,10,86.92
+27,Ethiopia,sidamo,Ethiopia Commodity Exchange,,7.83,8.25,8.08,8.17,8.17,8.17,10,10,10,86.92
+28,Uganda,kapchorwa eastern,Kabum Trading company,SL14,8.42,8.17,8.17,8.17,7.83,7.92,10,10,10,86.83
+29,Honduras,comayagua,Bismarck Castro,Caturra,8.17,8.08,8.08,8,8.08,8,10,10,10,86.67
+30,Taiwan,"leye, alishan township, chiayi county","Lin, Che-Hao Krude 林哲豪",Sumatra,8,8,8,8.25,8,8.17,10,10,10,86.58
+31,Nicaragua,,Nora Zeas,,7.92,8.25,8,8.33,8,8.08,10,10,10,86.58
+32,"Tanzania, United Republic Of",,Specialty Coffee-Korea,,8.42,8.17,8.17,8,7.58,8,10,10,10,86.5
+33,Brazil,vale da grama,NUCOFFEE,Bourbon,8.5,8.17,8,7.75,8,8,10,10,10,86.42
+34,Costa Rica,west and central valley,Francisco A Mena,Caturra,8.17,7.83,8,8.08,7.83,8,10,10,10,86.33
+35,Ethiopia,oromia,Hider Abamecha,,8,8.08,7.92,8,8.08,8.08,10,10,10,86.25
+36,Kenya,muranga,Daniel Magu,SL34,8.08,8,8,8.25,7.92,7.92,10,10,10,86.25
+37,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,8.08,8.17,8,7.92,7.92,7.83,10,10,10,86.25
+38,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,,8.25,8.42,8.08,7.75,7.67,7.83,10,10,10,86.25
+39,Ethiopia,yirgacheffe,Ethiopia Commodity Exchange,,7.92,7.75,8.08,8.08,8.08,8.17,10,10,10,86.25
+40,United States,antioquia,CQI Q Coffee Sample Representative,Other,7.67,8.17,8,8,8.17,8.08,10,10,10,86.17
+41,Thailand,chiang rai,ITDP International,Caturra,7.83,8.33,7.83,8.25,7.58,7.92,10,10,10,86.17
+42,Brazil,sul de minas - carmo de minas,Jacques Pereira Carneiro,Yellow Bourbon,8.17,7.92,7.92,7.75,8.33,8,10,10,10,86.17
+43,Brazil,sul de minas - carmo de minas,Jacques Pereira Carneiro,Yellow Bourbon,8.42,7.92,8,7.75,7.92,8,10,10,10,86.17
+44,Taiwan,natou county,"Lin, Che-Hao Krude 林哲豪",Bourbon,8.08,8.17,7.75,8.08,7.75,7.83,10,10,10,86.08
+45,Kenya,nyeri,Jungle Estate,SL28,8.08,8.08,8,8,7.83,8.08,10,10,10,86.08
+46,Brazil,south of minas,NUCOFFEE,Bourbon,8.33,8,8,8,7.75,8,10,10,10,86.08
+47,Uganda,eastern uganda,Great Lakes Coffee Uganda,,8.08,8.08,7.83,7.92,8.08,7.92,10,10,10,86
+48,Colombia,tolima,LUSSO LAB,Caturra,7.75,7.92,7.83,8.08,8.08,8.17,10,10,10,86
+49,Kenya,kiambu,LUSSO LAB,SL28,7.92,8.17,7.83,8.5,7.5,7.92,10,10,10,86
+50,Uganda,"sipi, mt elgon",AFCA,Other,8.25,8,7.83,8.08,8,7.92,10,10,10,86
+51,Ethiopia,sidamo,Ethiopia Commodity Exchange,,7.75,8.08,8,8.25,8,8,10,10,10,86
+52,United States (Hawaii),kona,Grounds for Health Admin,,8.33,8.17,7.75,8,7.75,7.83,10,10,10,86
+53,Guatemala,nuevo oriente,Juan Luis Alvarado Romero,Bourbon,7.92,8.08,7.92,8.08,8.08,7.83,10,10,10,85.92
+54,Uganda,eastern,Kawacom Uganda LTD,SL14,8.17,8.17,7.92,8.08,7.83,7.75,10,10,10,85.92
+55,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,8,8,8,8.17,7.83,8,10,10,10,85.92
+56,Panama,boquete,Gonzalo Hernandez,Gesha,8,8,7.92,8.08,7.83,8,10,10,10,85.83
+57,Ethiopia,oromia,Ibrahim Hussien Speciality Coffee Producer &Export,,7.83,8.08,7.92,8.08,8,7.92,10,10,10,85.83
+58,Guatemala,acatenango,Juan Luis Alvarado Romero,Bourbon,7.83,8,8,8.17,7.83,8,10,10,10,85.83
+59,Guatemala,nuevo oriente,Juan Luis Alvarado Romero,Catuai,8,8,7.83,8.33,7.83,7.83,10,10,10,85.83
+60,Ethiopia,addis ababa,SEID DAMTEW COFFEE PLANATAION,Caturra,7.83,8,7.83,8.17,7.92,8,10,10,10,85.75
+61,Peru,cajamarca,Dane Loraas,,8,8,8,8.08,7.92,7.75,10,10,10,85.75
+62,Papua New Guinea,eastern highlands province,"Colbran Coffeelands, Ltd.",,8.33,8.42,7.83,8.33,8,8.25,9.33,9.33,10,85.75
+63,El Salvador,apaneca,Atlantic Specialty Coffee,Bourbon,7.92,8.17,8,7.92,7.75,7.83,10,10,10,85.58
+64,El Salvador,"ataco, apaneca - ilamatepec mountain range",LUSSO LAB,Bourbon,7.83,8,8,7.75,7.92,8.17,10,10,10,85.58
+65,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.83,8,7.92,7.75,8.08,8,10,10,10,85.58
+66,Panama,boquete,EssenceCoffee,Caturra,8,7.75,7.83,7.83,7.67,8.58,10,10,10,85.5
+67,Kenya,kirinyaga,EssenceCoffee,SL28,7.92,7.92,7.83,8.08,7.83,7.92,10,10,10,85.5
+68,Ethiopia,oromia,Assefa Belay Coffee Producer,Other,7.83,8,7.83,7.92,7.83,8.08,10,10,10,85.5
+69,Uganda,bulambuli eastern region,Kyagalanyi Ltd,SL14,8.33,7.92,7.67,7.92,7.67,7.92,10,10,10,85.5
+70,Guatemala,huehuetenango,Juan Luis Alvarado Romero,Bourbon,8,7.83,7.67,8.33,7.83,8,10,10,10,85.5
+71,Ethiopia,oromia,Assefa Belay Coffee Producer,,7.75,7.83,7.83,8.17,7.92,7.83,10,10,10,85.42
+72,Uganda,kapchorwa,Great Lakes Coffee Uganda,SL14,8.08,8,7.83,7.67,8,7.83,10,10,10,85.42
+73,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.92,7.92,7.75,7.92,7.75,7.92,10,10,10,85.42
+74,Brazil,south of minas,NUCOFFEE,Bourbon,8,8,8,7.67,7.75,8,10,10,10,85.42
+75,El Salvador,apaneca,Grounds for Health Admin,,8.08,7.83,7.83,8.08,7.83,7.83,10,10,10,85.42
+76,China,yunnan,Yunnan Coffee Exchange,Catimor,8,8,8,7.83,7.83,7.75,10,10,10,85.33
+77,Guatemala,huehuetenango,EssenceCoffee,Pacamara,7.83,7.75,7.83,7.67,7.83,8.58,10,10,10,85.33
+78,Costa Rica,west valley,The Coffee Source Inc.,Caturra,7.92,8.08,8,7.92,8,8.08,10,10,9.33,85.33
+79,Costa Rica,san ramon,The Coffee Source Inc.,Caturra,8,7.58,7.58,7.67,8.08,8.5,10,10,10,85.33
+80,Kenya,central kenya,RASHID MOLEDINA & CO. (MSA) LTD.,SL34,7.83,8.08,7.75,8.08,7.92,7.75,10,10,10,85.33
+81,Kenya,central kenya,Ibero Kenya Limited,SL34,8,7.92,7.92,8.08,7.83,7.75,10,10,10,85.33
+82,Ethiopia,yirgacheffe,Ethiopia Commodity Exchange,,7.83,7.83,7.92,8.08,7.75,7.83,10,10,10,85.33
+83,Ethiopia,yirgacheffe,Ethiopia Commodity Exchange,Typica,7.92,7.83,7.75,8.33,7.75,7.75,10,10,10,85.33
+84,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,8,7.92,7.75,8,7.92,7.83,10,10,10,85.25
+85,Colombia,santander,Exportadora de Cafe Condor S.A,Caturra,8.17,7.92,7.83,8,7.58,7.83,10,10,10,85.25
+86,Colombia,santander,Compañia Colombiana Agroindustrial S.A,Caturra,7.58,8.08,7.92,7.83,8,7.92,10,10,10,85.25
+87,Indonesia,lintong,"Nomura Trading Co., Ltd.",Sumatra Lintong,7.75,7.83,7.67,8,8.08,7.83,10,10,10,85.17
+88,Guatemala,huehuetenango,The Coffee Source Inc.,Caturra,8.25,8,7.67,7.92,7.75,7.67,10,10,10,85.17
+89,Ethiopia,"kefa zone, gimbo distict, at a place called woka araba, south west ethiopia.",SEID DAMTEW COFFEE PLANATAION,Other,7.75,8,7.58,8,8,7.92,10,10,10,85.08
+90,Colombia,pasto,CARCAFE LTDA CI,Caturra,8.17,7.83,7.58,8.08,8,7.75,10,10,10,85.08
+91,Ethiopia,aricha,Steven Kil,,8.42,8,7.42,8,7.92,7.92,9.33,10,10,85.08
+92,United States (Hawaii),kona,Eileen Koyanagi,Hawaiian Kona,7.58,7.83,7.83,7.92,7.83,8.17,10,10,10,85.08
+93,Colombia,cundinamarca,CARCAFE LTDA CI,Caturra,7.83,8,7.75,7.75,7.83,7.83,10,10,10,85.08
+94,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,,8.08,8.17,7.92,8,8.08,8,9.33,9.33,10,85.08
+95,Ethiopia,sidamo,Ethiopia Commodity Exchange,,7.67,8,7.83,8,7.92,7.83,10,10,10,85.08
+96,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,,7.5,7.92,8.25,7.83,7.92,7.75,10,10,10,85.08
+97,Uganda,eastern uganda,Kyagalanyi Coffee Ltd,SL14,8.17,7.92,7.75,7.75,7.67,7.75,10,10,10,85
+98,Colombia,huila,Racafe & Cia S.C.A,Caturra,8,7.92,7.75,7.92,7.75,7.83,10,10,10,85
+99,Costa Rica,tarrazu,Troy Quimby,Catuai,7.83,8,7.58,7.92,7.92,7.83,10,10,10,85
+100,Mexico,veracruz,"El Equimite, Cafetal Biodinámico",Typica,7.83,8,7.83,7.75,7.67,7.83,10,10,10,85
+101,Kenya,,SIMON MAHINDA,,8.17,7.83,7.92,7.75,7.67,7.83,10,10,10,85
+102,Kenya,central kenya,RASHID MOLEDINA & CO. (MSA) LTD.,SL34,7.75,7.83,7.75,8.08,8,7.75,10,10,10,85
+103,Brazil,grama valley,NUCOFFEE,Mundo Novo,8,8,7.83,7.83,7.67,7.67,10,10,10,85
+104,Mexico,mexico,Young Kim,Pacamara,7.92,8.17,7.75,8.08,7.42,7.83,10,10,10,85
+105,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,,7.75,7.92,7.75,7.75,8,8,10,10,10,85
+106,Guatemala,"chuva, san marcos",Carl Walker,,7.83,8.08,7.67,8,7.75,7.67,10,10,10,85
+107,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.92,7.92,7.67,7.83,7.92,7.83,10,10,10,84.92
+108,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.92,7.83,7.75,7.83,7.75,8,10,10,10,84.92
+109,Taiwan,natou county,"Lin, Che-Hao Krude 林哲豪",Typica,7.67,7.83,8,7.58,8,7.92,10,10,10,84.92
+110,"Tanzania, United Republic Of",mbeya,Taylor Winch (T) Ltd,Other,8,7.83,7.83,7.92,7.75,7.75,10,10,10,84.92
+111,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.75,7.92,7.83,7.75,7.75,8,10,10,10,84.92
+112,Mexico,coatepec,ARTEMIO ZAPATA TEJEDA,Typica,7.75,8,7.75,7.83,7.5,7.92,10,10,10,84.92
+113,Brazil,south of minas,NUCOFFEE,Bourbon,8,7.92,7.75,7.75,8,7.75,10,10,10,84.92
+114,Brazil,south of minas,NUCOFFEE,Catuai,8,8,7.75,8,7.5,7.75,10,10,10,84.92
+115,Kenya,,Brian Speckman,,8,7.67,7.83,8.17,7.92,7.75,10,10,10,84.92
+116,Taiwan,"dongshan dist., tainan city 臺南市東山區","Lin, Che-Hao Krude 林哲豪",Typica,7.92,7.58,7.83,7.83,7.83,7.83,10,10,10,84.83
+117,Uganda,eastern,Kawacom Uganda LTD,SL14,7.75,7.92,7.67,7.67,8.25,7.75,10,10,10,84.83
+118,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.67,7.75,7.75,7.75,7.83,8,10,10,10,84.83
+119,Ethiopia,sidamo,Ethiopia Commodity Exchange,,7.75,7.92,7.83,7.92,7.75,7.67,10,10,10,84.83
+120,Ethiopia,sidamo,Philip Schluter,,7.42,7.92,7.92,8,7.83,7.83,10,10,10,84.83
+121,Thailand,thailand,松澤宏樹 Koju Matsuzawa,Caturra,7.75,7.75,7.75,7.75,8,7.75,10,10,10,84.75
+122,Kenya,nyeri,Lydiah Mwangi,SL34,7.92,7.83,7.58,7.92,7.75,7.83,10,10,10,84.75
+123,Honduras,marcala,CADEXSA,Catuai,7.83,7.75,8,7.67,7.67,7.67,10,10,10,84.75
+124,El Salvador,santa ana,The Coffee Source Inc.,,7.75,8,8,8.33,7.67,7.92,10,10,9.33,84.75
+125,Nicaragua,jinotega,Grounds for Health Admin,,7.83,7.58,7.58,7.83,7.75,7.67,10,10,10,84.75
+126,El Salvador,apaneca,Consejo Salvadoreño del Café,Bourbon,7.83,7.83,7.5,8,7.83,7.67,10,10,10,84.67
+127,Indonesia,"temanggung, indonesia",SanJava Coffee,Java,7.92,7.83,7.75,7.75,7.75,7.75,10,10,10,84.67
+128,Japan,ada okinawa japan,松澤宏樹 Koju Matsuzawa,Mundo Novo,7.75,7.75,7.75,7.42,8.08,7.83,10,10,10,84.67
+129,Costa Rica,tarrazu,Rodrigo Soto,Catuai,8.08,7.75,7.67,7.83,7.5,7.92,10,10,10,84.67
+130,Guatemala,acatenango,Juan Luis Alvarado Romero,Bourbon,7.75,7.83,7.58,8,7.92,7.75,10,10,10,84.67
+131,Costa Rica,tarrazu,Fabian Calderon Mora,Caturra,8.17,8,7.83,7.17,7.83,7.75,10,10,10,84.67
+132,Ethiopia,yirgacheffe,EssenceCoffee,Ethiopian Yirgacheffe,8.08,7.83,7.75,7.83,7.58,7.67,10,10,10,84.67
+133,Costa Rica,costa rica,EssenceCoffee,Other,7.67,7.58,7.75,7.75,7.67,8.58,10,10,10,84.67
+134,Costa Rica,west valley,Eric Thormaehlen,Catuai,8,7.58,7.83,7.75,7.75,7.75,10,10,10,84.67
+135,Costa Rica,,Rob Tuttle,,8.08,7.83,7.75,7.83,7.92,8,10,10,9.33,84.67
+136,Taiwan,taichung xinshe 台中市新社區,CQI Taiwan ICP CQI台灣合作夥伴,Typica,8,7.92,7.75,7.75,7.75,7.75,10,10,10,84.67
+137,Colombia,santander,Compañia Colombiana Agroindustrial S.A,Caturra,7.75,7.83,7.75,7.83,7.75,7.83,10,10,10,84.67
+138,Kenya,nyeri,Dream Together,SL28,7.75,7.92,7.83,8,7.58,7.75,10,10,10,84.67
+139,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,8,7.83,7.67,7.83,7.67,8,10,10,10,84.67
+140,Guatemala,acatenango,Juan Luis Alvarado Romero,Bourbon,7.67,7.83,7.67,8,7.67,7.83,10,10,10,84.67
+141,Mexico,el remudadero,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,Typica,7.83,7.58,7.67,7.92,7.92,7.83,10,10,10,84.67
+142,Uganda,mbale,AFCA,Other,7.92,7.83,7.75,7.92,7.67,7.75,10,10,10,84.67
+143,Peru,"penachi, cecanor",Benjamin Schmerler,,7.67,7.83,7.75,7.75,7.92,7.83,10,10,10,84.67
+144,Ethiopia,sidamo,Ethiopia Commodity Exchange,,7.42,7.75,7.75,8,8,7.92,10,10,10,84.67
+145,Kenya,nyeri,Jungle Estate,SL34,7.92,7.75,7.83,7.75,7.58,7.92,10,10,10,84.58
+146,Colombia,santander,Racafe & Cia S.C.A,Other,7.83,7.67,7.58,7.92,7.67,7.83,10,10,10,84.58
+147,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.92,7.83,7.58,8,7.83,7.67,10,10,10,84.58
+148,Kenya,nyeri,Daniel Magu,Peaberry,7.83,7.83,7.83,7.75,7.58,7.83,10,10,10,84.58
+149,Guatemala,jalapa,Juan Luis Alvarado Romero,Pacas,7.75,7.83,7.67,7.92,7.75,7.83,10,10,10,84.58
+150,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,8,7.92,7.67,7.58,7.58,7.67,10,10,10,84.58
+151,Colombia,santander,Compañia Colombiana Agroindustrial S.A,Caturra,7.67,7.67,7.58,7.75,7.58,8.5,10,10,10,84.58
+152,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.75,7.75,7.83,7.75,7.58,8,10,10,10,84.58
+153,Kenya,,Taylor Winch (Coffee) Ltd.,SL28,7.75,7.75,7.75,8.08,7.75,7.75,10,10,10,84.58
+154,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.67,7.83,7.83,8,7.58,7.92,10,10,10,84.58
+155,Costa Rica,tres rios,LUSSO LAB,Bourbon,7.75,7.83,7.75,8,7.83,7.67,10,10,10,84.58
+156,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.42,7.67,7.75,7.75,8.08,7.83,10,10,10,84.58
+157,Brazil,vale da grama,NUCOFFEE,Bourbon,8,8,7.75,7.75,7.58,7.75,10,10,10,84.58
+158,Brazil,mountains of minas gerais,NUCOFFEE,Catuai,8.5,8,7.5,7.75,7.5,7.83,10,10,10,84.58
+159,Costa Rica,valle central,Max Gurdian,Caturra,7.92,7.67,7.92,7.75,7.67,7.58,10,10,10,84.5
+160,Uganda,eastern uganda,ECOM Japan Limited,SL14,7.92,7.75,7.67,7.75,7.83,7.75,10,10,10,84.5
+161,China,yunnan,Yunnan Coffee Exchange,Catimor,7.75,7.92,7.67,7.83,7.75,7.67,10,10,10,84.5
+162,Costa Rica,tarrazu,Fabian Calderon Mora,Caturra,7.92,7.83,7.83,7.83,7.58,7.58,10,10,10,84.5
+163,Colombia,cauca,Federacion Nacional de Cafeteros,Other,8.08,7.67,7.83,7.83,7.67,7.67,10,10,10,84.5
+164,China,yunnan,Eric Wu,Other,7.67,8,7.75,7.83,7.75,7.58,10,10,10,84.5
+165,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,8.17,7.83,7.67,7.83,7.67,7.83,10,10,10,84.5
+166,Kenya,nyeri,Dream Together,SL28,7.92,7.83,7.67,8,7.67,7.75,10,10,10,84.5
+167,Mexico,hustusco,MARIA IMELDA USCANGA MARTINEZ,Typica,8,7.92,7.42,8.08,7.5,7.67,10,10,10,84.5
+168,Mexico,jaltenango,ALFREDO BOJALIL,Typica,7.92,7.83,7.75,7.75,7.75,7.83,10,10,10,84.5
+169,Guatemala,"el tumbador, san marcos",Juan Luis Alvarado Romero,Bourbon,7.67,8,7.67,8,7.5,7.83,10,10,10,84.5
+170,Brazil,mmm,Daniel Friedlander,,7.81,7.81,7.88,7.75,7.38,8.25,9.5,10,10,84.5
+171,Brazil,test,Alexandra Katona-Carroll,,8.17,7.67,7.75,7.75,7.67,7.75,10,10,10,84.5
+172,Costa Rica,tarrazu,Max Gurdian,Caturra,7.58,7.83,7.83,8,7.67,7.58,10,10,10,84.42
+173,Indonesia,sumatra brastagi,Aulia Arif Syahri,Mandheling,7.67,7.67,7.83,7.58,7.83,7.83,10,10,10,84.42
+174,Colombia,pitalito,CARCAFE LTDA CI,Caturra,7.92,7.83,7.75,7.67,7.92,7.67,10,10,10,84.42
+175,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.92,7.75,7.67,7.92,7.67,7.75,10,10,10,84.42
+176,Taiwan,"mountain ali, taiwan",Kao Ming Lee,Typica,7.83,7.83,7.75,8,7.5,7.75,10,10,10,84.42
+177,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.92,7.92,7.5,7.83,7.5,7.92,10,10,10,84.42
+178,Mexico,tapachula,MARIA AMALIA GUADALUPE TORIELLO ELORZA,Pacamara,7.75,7.92,7.75,7.67,7.83,7.67,10,10,10,84.42
+179,Ethiopia,limu,Ethiopia Commodity Exchange,,7.5,7.75,7.83,7.92,7.92,7.75,10,10,10,84.42
+180,Kenya,nyeri,Lydiah Mwangi,SL28,7.33,7.58,7.83,7.75,7.75,7.92,10,10,10,84.33
+181,Honduras,comayagua,Bismarck Castro,Caturra,7.92,8,7.75,7.67,7.67,7.75,10,10,10,84.33
+182,Colombia,huila,Raúl Vargas,Caturra,7.58,7.75,7.5,7.83,7.67,8.5,10,10,10,84.33
+183,Honduras,central region,Bismarck Castro,Catuai,7.58,7.92,7.58,7.75,7.92,7.75,10,10,10,84.33
+184,Colombia,la plata,Racafe & Cia S.C.A,,7.67,7.67,7.75,7.83,7.75,7.83,10,10,10,84.33
+185,Colombia,huila,CARCAFE LTDA CI,Caturra,7.75,7.67,8,7.67,8.08,7.83,10,10,10,84.33
+186,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.75,7.58,7.33,7.83,7.58,8.08,10,10,10,84.33
+187,Mexico,tuxtla gutierrez,VICTOR HUGO MELCHOR CORDOVA,Typica,8,7.75,7.75,7.83,7.5,7.67,10,10,10,84.33
+188,Brazil,vale da grama,NUCOFFEE,Yellow Bourbon,8.17,8,7.5,7.75,7.5,7.67,10,10,10,84.33
+189,Brazil,south of minas,NUCOFFEE,,8,8,7.5,7.5,7.67,7.75,10,10,10,84.33
+190,Ethiopia,limu,Benjamin Schmerler,,7.75,7.75,7.92,7.75,7.5,7.92,10,10,10,84.33
+191,Guatemala,nuevo oriente,The Coffee Source Inc.,,7.5,7.67,7.75,7.67,7.92,7.92,10,10,10,84.33
+192,Taiwan,國姓鄉 guoshing township,"Lin, Che-Hao Krude 林哲豪",Typica,7.92,7.75,7.75,7.67,7.67,7.83,10,10,10,84.25
+193,Thailand,chiang rai thailand,松澤宏樹 Koju Matsuzawa,Catimor,7.83,7.75,7.75,7.42,7.83,7.67,10,10,10,84.25
+194,Colombia,nariño,CARCAFE LTDA CI,Caturra,7.83,7.58,7.75,7.58,7.67,8,10,10,10,84.25
+195,Guatemala,antigua,Juan Luis Alvarado Romero,Caturra,7.75,7.75,7.58,7.92,7.75,7.75,10,10,10,84.25
+196,Guatemala,huehuetenango,Juan Luis Alvarado Romero,Caturra,7.75,7.92,7.5,8.08,7.58,7.67,10,10,10,84.25
+197,China,yunnan,Yunnan Coffee Exchange,Catimor,7.83,7.83,7.58,7.75,7.75,7.75,10,10,10,84.25
+198,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.67,7.67,7.75,7.75,7.67,7.92,10,10,10,84.25
+199,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.83,7.67,7.75,7.58,7.92,7.75,10,10,10,84.25
+200,Colombia,cauca,Federacion Nacional de Cafeteros,Other,7.83,7.75,7.83,7.58,7.67,7.75,10,10,10,84.25
+201,Colombia,huila,CARCAFE LTDA CI,Caturra,7.42,7.67,7.83,7.75,7.92,7.83,10,10,10,84.25
+202,"Tanzania, United Republic Of",shizingo village,Tembo Coffee Company Ltd,Other,7.83,7.67,7.75,7.83,7.67,7.67,10,10,10,84.25
+203,"Tanzania, United Republic Of",mbeya,Taylor Winch (T) Ltd,Other,7.83,7.75,7.75,7.75,7.67,7.75,10,10,10,84.25
+204,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.83,7.83,7.5,7.92,7.58,7.75,10,10,10,84.25
+205,Colombia,cauca,Exportadora de Cafe Condor S.A,Caturra,7.58,7.5,7.75,7.83,7.92,7.83,10,10,10,84.25
+206,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.33,7.92,7.92,7.92,7.92,8.08,10,10,9.33,84.25
+207,Mexico,san pedro cotzilnam,JESUS SALAZAR VELASCO,Typica,7.83,7.92,7.67,7.83,7.5,7.75,10,10,10,84.25
+208,Mexico,veracruz,MANUEL HERRERA JUAREZ,Bourbon,7.83,7.83,7.75,7.67,7.83,7.58,10,10,10,84.25
+209,Mexico,"la concordia, chiapas",ALFREDO BOJALIL,Bourbon,7.83,7.92,7.67,7.75,7.5,7.75,10,10,10,84.25
+210,Uganda,kasese,AFCA,Other,8.17,7.75,7.58,7.67,7.83,7.58,10,10,10,84.25
+211,Guatemala,san marcos,Juan Luis Alvarado Romero,Bourbon,7.75,7.83,7.58,7.83,7.67,7.75,10,10,10,84.17
+212,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.83,7.75,7.58,7.67,7.75,7.83,10,10,10,84.17
+213,Costa Rica,tarrazu,Wayner Jimenez,Caturra,7.92,7.75,7.67,7.67,7.5,7.67,10,10,10,84.17
+214,Guatemala,huehuetenango,Juan Luis Alvarado Romero,Caturra,7.75,7.75,7.58,8,7.67,7.83,10,10,10,84.17
+215,Guatemala,solola,Juan Luis Alvarado Romero,Caturra,7.75,7.92,7.58,7.92,7.67,7.67,10,10,10,84.17
+216,Guatemala,norte,Juan Luis Alvarado Romero,Bourbon,7.58,7.83,7.58,7.83,7.83,7.67,10,10,10,84.17
+217,Colombia,huila,Racafe & Cia S.C.A,Caturra,8,7.5,7.5,7.67,8,7.83,10,10,10,84.17
+218,Nicaragua,jinotega,COOPERATIVA EL GORRION R.L,Caturra,7.67,7.83,7.83,7.5,7.67,7.83,10,10,10,84.17
+219,Brazil,cerrado,Cafebras,Catuai,7.67,7.75,7.75,7.67,7.83,7.75,10,10,10,84.17
+220,Costa Rica,tarrazu,"CECA,S.A.",Caturra,7.67,7.75,7.67,7.75,7.5,8,10,10,10,84.17
+221,Ethiopia,snnprg; kafa; telo woreda; shada kebele,Asefa Dukamo Keroma,Gesha,7.5,7.92,7.58,7.83,7.75,7.83,10,10,10,84.17
+222,"Tanzania, United Republic Of",arusha,Selian Coffee Estate,Other,7.92,7.75,7.75,7.75,7.75,7.58,10,10,10,84.17
+223,Colombia,huila,Olam Agro Colombia,Other,7.67,7.5,7.67,7.42,7.83,8.58,10,10,10,84.17
+224,Guatemala,,Chris Finch,,7.67,7.75,7.67,7.75,7.75,7.75,10,10,10,84.17
+225,Kenya,kenya,ITOCHU Corporation,SL28,7.58,7.75,7.75,7.75,7.75,7.83,10,10,10,84.17
+226,Brazil,"minas gerais, br",Owen Carver,Mundo Novo,7.58,7.83,7.75,7.67,7.67,8,10,10,10,84.17
+227,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.92,7.75,7.67,7.67,7.83,7.92,10,10,10,84.17
+228,El Salvador,apaneca,Atlantic Specialty Coffee,Bourbon,8.42,8.08,7.5,7.17,7.58,8.17,9.33,10,10,84.17
+229,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.75,7.75,7.75,7.75,7.83,7.75,10,10,10,84.17
+230,Guatemala,guatemala,Juan Luis Alvarado Romero,Catuai,7.83,7.5,7.5,8,7.83,7.83,10,10,10,84.17
+231,Uganda,mt. rwenzori,AFCA,Other,7.83,7.75,7.5,7.83,7.83,7.75,10,10,10,84.17
+232,Indonesia,aceh tengah,PT.ROYAL PACIFIC INDAH INTERNATIONAL,Mandheling,7.81,7.88,7.56,7.75,7.63,7.75,10,10,10,84.13
+233,Colombia,huila,CARCAFE LTDA CI,Caturra,7.83,7.5,7.42,7.5,7.83,8.5,10,10,10,84.08
+234,Taiwan,"nanxi dist., tainan city 臺南市楠西區","Lin, Che-Hao Krude 林哲豪",Typica,7.58,7.67,7.67,7.67,7.75,7.83,10,10,10,84.08
+235,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,8,7.75,7.5,7.58,7.92,7.67,10,10,10,84.08
+236,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.92,7.75,7.67,7.75,7.67,7.67,10,10,10,84.08
+237,Guatemala,"aldea xeucalvitz, ixil region, quiche department",LUSSO LAB,Bourbon,7.58,7.75,7.67,8,7.75,7.67,10,10,10,84.08
+238,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.83,7.75,7.83,7.83,7.42,8.08,9.33,10,10,84.08
+239,Mexico,santo domingo cacalotepec,ANDRES MARTINEZ LEON,Typica,7.67,7.75,7.67,7.75,7.67,7.75,10,10,10,84.08
+240,Ethiopia,"ethiopia, sidamo",Steven Kil,Other,7.92,7.92,7.83,8,7.92,7.92,10,10,8.67,84.08
+241,Costa Rica,,Amanda Powers,,7.58,7.75,7.67,7.75,7.83,7.75,10,10,10,84
+242,Ethiopia,sidamo,Kyagalanyi Coffee Ltd,Gesha,7.83,7.75,7.67,7.75,7.33,7.75,10,10,10,84
+243,Honduras,comayagua,Bismarck Castro,Caturra,7.42,7.83,7.75,7.92,7.75,7.58,10,10,10,84
+244,Guatemala,huehuetenango,Juan Luis Alvarado Romero,Caturra,7.67,7.83,7.58,7.92,7.75,7.67,10,10,10,84
+245,Colombia,huila,Olam Agro Colombia,Other,7.67,7.67,7.83,7.58,7.58,7.83,10,10,10,84
+246,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.92,7.67,7.42,7.92,7.75,7.83,10,10,10,84
+247,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.75,7.83,7.5,7.83,7.58,7.67,10,10,10,84
+248,Colombia,huila,Olam Agro Colombia,,7.67,7.75,7.67,7.67,7.67,7.75,10,10,10,84
+249,Colombia,santander,Compañia Colombiana Agroindustrial S.A,Caturra,7.58,7.42,7.75,7.92,7.75,7.92,10,10,10,84
+250,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.67,7.67,7.5,7.5,7.67,7.67,10,10,10,84
+251,Ethiopia,sidamo,LUSSO LAB,Other,7.75,7.75,7.5,7.58,7.67,7.92,10,10,10,84
+252,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.58,7.83,7.67,7.25,8,7.75,10,10,10,84
+253,Colombia,cauca,Exportadora de Cafe Condor S.A,Caturra,7.67,7.83,7.67,7.75,7.67,7.75,10,10,10,84
+254,Kenya,blend,Ibero Kenya Limited,SL34,7.67,7.83,7.5,7.75,7.92,7.67,10,10,10,84
+255,Thailand,thailand,Doi Tung Development Project,Other,7.92,8.17,8.17,8.42,8.08,8.17,8.67,8.67,9.33,84
+256,Kenya,central kenya,Taylor Winch (Coffee) Ltd.,SL28,7.67,7.75,7.67,7.75,7.83,7.67,10,10,10,84
+257,Uganda,kasese,AFCA,Other,7.92,7.75,7.58,7.67,7.67,7.83,10,10,10,84
+258,Thailand,,Doi Tung Development Project,,7.58,7.75,7.58,7.75,7.58,7.75,10,10,10,84
+259,Brazil,south of minas,Ipanema Coffees,Bourbon,7.5,7.75,7.58,7.5,7.58,7.5,10,10,10,83.92
+260,Mexico,veracruz,CAFES TOMARI SA DE CV,Mundo Novo,7.83,7.83,7.58,7.92,7.42,7.5,10,10,10,83.92
+261,Thailand,chiangrai,Sarawut Premjit,Catimor,7.67,7.75,7.5,7.67,7.67,7.83,10,10,10,83.92
+262,Brazil,south of minas,Ipanema Coffees,Bourbon,7.58,7.67,7.67,7.75,7.58,7.83,10,10,10,83.92
+263,Taiwan,"leye, alishan township, chiayi county 嘉義阿里山樂野村","Lin, Che-Hao Krude 林哲豪",Typica,7.83,7.75,7.83,7.75,7.83,7.75,9.33,10,10,83.92
+264,Colombia,huila,CARCAFE LTDA CI,,7.75,7.67,7.5,7.75,7.83,7.75,10,10,10,83.92
+265,Colombia,la plata,ALMACAFE,,7.75,7.58,7.5,7.83,7.75,7.92,10,10,10,83.92
+266,Taiwan,台灣,CQI Taiwan ICP CQI台灣合作夥伴,,7.75,7.75,7.58,7.75,7.75,7.67,10,10,10,83.92
+267,Colombia,huila,Federacion Nacional de Cafeteros,,7.92,7.67,7.5,7.83,7.58,7.67,10,10,10,83.92
+268,Colombia,huila,Federacion Nacional de Cafeteros,,7.83,7.75,7.58,7.58,7.75,7.75,10,10,10,83.92
+269,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.75,7.58,7.67,7.83,7.83,7.67,10,10,10,83.92
+270,Taiwan,台中和平區,CQI Taiwan ICP CQI台灣合作夥伴,Typica,8,7.92,7.92,7.92,7.67,7.33,10,10,10,83.92
+271,Colombia,santander,Compañia Colombiana Agroindustrial S.A,Caturra,7.67,7.83,7.67,7.75,7.67,7.83,10,10,10,83.92
+272,Mexico,xicotepec de juarez,OSCAR ORTEGA CARBALLO,Typica,7.67,7.75,7.58,7.67,7.75,7.83,10,10,10,83.92
+273,Mexico,la concordia,ALFREDO BOJALIL,Typica,7.5,7.67,7.58,7.83,7.75,7.75,10,10,10,83.92
+274,Mexico,la yerbabuena,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,Typica,7.75,7.92,7.83,7.92,7.75,7.67,9.33,10,10,83.92
+275,Colombia,nariño,CARCAFE LTDA CI,Caturra,7.92,7.58,7.5,7.83,7.58,7.67,10,10,10,83.83
+276,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.83,7.67,7.5,7.75,7.75,7.75,10,10,10,83.83
+277,Costa Rica,tarrazu,"CECA, S.A.",Caturra,7.67,7.67,7.75,7.67,7.5,7.75,10,10,10,83.83
+278,Guatemala,antigua,Juan Luis Alvarado Romero,Bourbon,7.75,7.75,7.5,7.75,7.83,7.58,10,10,10,83.83
+279,Taiwan,台灣,CQI Taiwan ICP CQI台灣合作夥伴,,7.75,7.67,7.5,7.75,7.75,7.67,10,10,10,83.83
+280,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.25,7.58,7.42,8,7.75,7.83,10,10,10,83.83
+281,Taiwan,"dongshan dist., tainan city 臺南市東山區","Lin, Che-Hao Krude 林哲豪",Typica,7.67,7.75,7.67,7.75,7.42,7.75,10,10,10,83.83
+282,Ethiopia,oromia,yasmin Cofffee Plantation Plc,,7.75,7.75,7.67,7.67,7.58,7.67,10,10,10,83.83
+283,Brazil,south of minas,Ipanema Coffees,Bourbon,7.67,7.67,7.58,7.5,7.83,8.17,10,10,9.33,83.83
+284,Costa Rica,central valley,Eric Thormaehlen,Catuai,7.83,7.42,7.5,7.83,7.75,7.83,10,10,10,83.83
+285,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.58,7.83,7.33,8,7.58,7.75,10,10,10,83.83
+286,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.92,7.5,7.33,7.67,8.17,7.5,10,10,10,83.83
+287,Ecuador,"province of manabi, ecuador",Garet Alban,,7.5,7.67,7.58,7.75,7.83,7.83,10,10,10,83.83
+288,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.67,7.58,7.58,7.83,7.58,7.67,10,10,10,83.83
+289,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.5,7.83,7.5,7.83,7.83,7.67,10,10,10,83.83
+290,Mexico,petatlan,FILEMON MENDOZA CAMPOS,Bourbon,7.67,8,7.67,7.42,7.67,7.5,10,10,10,83.83
+291,Mexico,"la concordia, chiapas",ALFREDO BOJALIL,Pacas,7.67,7.58,7.5,7.75,7.75,7.75,10,10,10,83.83
+292,Brazil,carmo de minas,Jacques Pereira Carneiro,Yellow Bourbon,7.83,7.83,7.58,7.67,7.5,7.58,10,10,10,83.83
+293,Thailand,"doi chaang village, chiang rai, thialand",Doi Chaang Coffee Company,,7.75,7.75,7.58,8,7.67,7.58,10,10,10,83.83
+294,Thailand,,Doi Tung Development Project,,7.5,7.83,7.58,7.58,7.75,7.83,10,10,10,83.83
+295,Ethiopia,sidamo,Ethiopia Commodity Exchange,,7.58,7.83,7.58,8,7.83,7.5,10,10,10,83.83
+296,Kenya,nyeri,Kennedy Macharia,SL28,7.75,7.58,7.5,7.58,7.75,7.75,10,10,10,83.75
+297,Brazil,south of minas,Ipanema Coffees,Bourbon,7.67,7.67,7.58,7.75,7.67,7.67,10,10,10,83.75
+298,Colombia,huila,CARCAFE LTDA CI,Caturra,7.83,7.83,7.58,7.58,7.58,7.58,10,10,10,83.75
+299,Taiwan,"台南市東山區 (dongshan dist., tainan city)","Lin, Che-Hao Krude 林哲豪",Typica,7.67,7.67,7.58,7.58,7.67,7.83,10,10,10,83.75
+300,Colombia,huila,Racafe & Cia S.C.A,,7.92,7.75,7.5,7.67,7.75,7.5,10,10,10,83.75
+301,China,yunnan,Yunnan Coffee Exchange,Catimor,7.83,7.75,7.67,7.5,7.58,7.67,10,10,10,83.75
+302,Colombia,huila,CARCAFE LTDA CI,Caturra,7.75,7.67,7.5,7.67,7.58,7.83,10,10,10,83.75
+303,Uganda,west nile,Nile Highland Arabica Coffee Farmers,Bourbon,8,7.92,7.58,7.75,7.33,7.5,10,10,10,83.75
+304,United States (Puerto Rico),yauco region,German Negron,Other,7.83,7.83,7.83,7.67,8,8.17,9.33,9.33,10,83.75
+305,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.67,7.67,7.67,7.92,7.5,7.67,10,10,10,83.75
+306,Colombia,huila,Olam Agro Colombia,Other,7.67,7.42,7.42,7.42,8,8.33,10,10,10,83.75
+307,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.58,7.67,7.75,7.67,7.67,7.67,10,10,10,83.75
+308,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.75,7.67,7.75,7.58,7.42,8,10,10,10,83.75
+309,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.25,7.42,7.67,7.58,7.83,8.25,10,10,10,83.75
+310,Mexico,"huazalingo, hidalgo",SAUL M. HERNANDEZ RAMIREZ,Caturra,7.83,7.58,7.58,7.5,7.75,7.67,10,10,10,83.75
+311,Guatemala,quetzaltenango,The Coffee Source Inc.,Caturra,7.67,7.58,7.58,7.67,7.75,7.75,10,10,10,83.75
+312,Colombia,cauca,CARCAFE LTDA CI,,7.83,7.83,7.58,7.33,7.42,7.67,10,10,10,83.75
+313,Colombia,cundinamarca,Exportadora de Cafe Condor S.A,,7.75,7.67,7.25,7.25,7.58,8.5,10,10,10,83.75
+314,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,,7.83,7.67,7.75,7.67,7.58,7.5,10,10,10,83.75
+315,Brazil,south of minas,Ipanema Coffees,Bourbon,7.67,7.83,7.5,7.67,7.67,7.5,10,10,10,83.67
+316,Kenya,meru county,Kennedy Macharia,SL28,8.08,7.67,7.67,7.58,7.25,7.67,10,10,10,83.67
+317,Honduras,comayagua,Bismarck Castro,Caturra,7.5,7.5,7.67,7.67,8,8,10,10,10,83.67
+318,Nicaragua,jinotega,"COMERCIAL INTERNACIONAL EXPORTADORA, S.A.",Caturra,7.67,7.75,7.67,7.67,7.83,7.58,10,10,10,83.67
+319,Brazil,south of minas,Ipanema Coffees,Bourbon,7.58,7.75,7.58,7.75,7.58,7.58,10,10,10,83.67
+320,Taiwan,"leye, alishan township, chiayi county","Lin, Che-Hao Krude 林哲豪",Caturra,7.5,7.67,7.33,7.92,7.83,7.67,10,10,10,83.67
+321,Costa Rica,west valley,"CECA, S.A.",,7.33,7.67,7.67,7.5,7.67,7.5,10,10,10,83.67
+322,Thailand,thailand,Doi Tung Development Project,,7.5,7.75,7.58,7.83,7.67,7.58,10,10,10,83.67
+323,Colombia,huila,Rob Stephen,Caturra,7.5,7.75,7.5,7.75,7.67,7.67,10,10,10,83.67
+324,Guatemala,huehuetenango,Juan Luis Alvarado Romero,Bourbon,8,7.5,7.33,8,8,8,9.33,10,10,83.67
+325,Colombia,huila supremo,Exportadora de Cafe Condor S.A,Caturra,7.83,7.75,7.67,7.58,7.58,7.67,10,10,10,83.67
+326,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.67,7.67,7.67,7.67,7.33,7.75,10,10,10,83.67
+327,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.67,7.67,7.42,7.67,8,7.75,10,10,10,83.67
+328,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.83,7.67,7.33,7.67,7.67,7.83,10,10,10,83.67
+329,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.75,7.75,7.58,7.83,7.17,7.75,10,10,10,83.67
+330,Guatemala,oriente,The Coffee Source Inc.,Caturra,8.17,8.17,7.83,7.67,8.08,7.75,9.33,9.33,9.33,83.67
+331,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.67,8.17,7.5,7.42,7.58,7.83,10,10,10,83.67
+332,Mexico,xicotepec de juarez,JUAN LUIS ORTEGA CARBALLO,Typica,7.67,7.5,7.5,7.33,7.83,8.25,10,10,10,83.67
+333,Indonesia,east java,EKAI International Company Ltd.,Typica,8.17,7.67,7.58,7.58,7.42,7.67,10,10,10,83.67
+334,Guatemala,"sacatepequez, guatemala",Juan Luis Alvarado Romero,Caturra,7.67,7.5,7.33,8,7.67,7.67,10,10,10,83.67
+335,United States (Hawaii),,Kona Pacific Farmers Cooperative,,7.75,8,7.92,8.08,7.75,8,9.33,9.33,9.33,83.67
+336,Brazil,south of minas,Ipanema Coffees,Bourbon,7.58,7.67,7.58,7.58,7.67,7.58,10,10,10,83.58
+337,Guatemala,huehuetenango,Juan Luis Alvarado Romero,Caturra,7.75,7.75,7.5,7.83,7.58,7.58,10,10,10,83.58
+338,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.75,7.75,7.58,7.58,7.67,7.58,10,10,10,83.58
+339,China,yunnan,Yunnan Coffee Exchange,Catimor,7.67,7.58,7.58,7.58,7.67,7.75,10,10,10,83.58
+340,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.67,7.75,7.58,7.67,7.75,7.58,10,10,10,83.58
+341,Mexico,"chiapas, jaltenango",ANDREAS KUSSMAUL,Caturra,7.75,7.75,7.58,7.58,7.5,7.67,10,10,10,83.58
+342,Ethiopia,yirgacheffe,EssenceCoffee,Other,7.75,7.67,7.58,7.67,7.5,7.67,10,10,10,83.58
+343,Uganda,eastern,Bulamburi coffee farmers association,SL14,7.67,7.67,7.42,7.75,7.75,7.67,10,10,10,83.58
+344,Colombia,cundinamarca,Compañia Colombiana Agroindustrial S.A,Caturra,7.67,7.58,7.67,7.67,7.67,7.67,10,10,10,83.58
+345,Colombia,santander,Compañia Colombiana Agroindustrial S.A,Caturra,7.67,7.58,7.67,7.58,7.67,7.75,10,10,10,83.58
+346,Colombia,santander,Compañia Colombiana Agroindustrial S.A,Caturra,7.75,7.58,7.5,7.58,7.75,7.83,10,10,10,83.58
+347,Taiwan,taichung xinshe 台中市新社區,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.75,7.75,7.75,7.75,7.5,7.58,10,10,10,83.58
+348,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.67,7.67,7.58,7.67,7.75,7.58,10,10,10,83.58
+349,Mexico,xalapa,ALFREDO BOJALIL,Typica,7.83,7.67,7.58,7.58,7.67,7.58,10,10,10,83.58
+350,Colombia,cundinamarca,CARCAFE LTDA CI,Caturra,7.67,7.58,7.58,7.58,7.67,7.75,10,10,10,83.58
+351,Brazil,south of minas,NUCOFFEE,Catuai,7.83,7.75,7.5,7.75,7.5,7.58,10,10,10,83.58
+352,Colombia,cundinamarca,CARCAFE LTDA CI,Caturra,7.75,7.58,7.58,7.75,7.75,7.5,10,10,10,83.5
+353,Taiwan,,CQI Taiwan ICP CQI台灣合作夥伴,,7.58,7.58,7.17,7.17,7,7,10,10,10,83.5
+354,Costa Rica,tarrazu,"CECA, S.A.",Caturra,7.92,7.42,7.5,7.67,7.5,7.67,10,10,10,83.5
+355,Colombia,pitalito,CARCAFE LTDA CI,Caturra,7.75,7.58,7.58,7.5,7.75,7.75,10,10,10,83.5
+356,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.67,7.75,7.5,7.83,7.58,7.58,10,10,10,83.5
+357,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.58,7.58,7.58,7.58,7.75,7.67,10,10,10,83.5
+358,"Tanzania, United Republic Of",nkure- meru,Damari Absalome,Ruiru 11,7.75,7.67,7.58,7.67,7.67,7.58,10,10,10,83.5
+359,Indonesia,bener meriah,Aulia Arif Syahri,Sumatra,7.25,7.67,7.58,7.92,7.83,7.58,10,10,10,83.5
+360,Ethiopia,oromia,Debesa Agro Industry Plc,,7.67,7.75,7.5,7.58,7.75,7.67,10,10,10,83.5
+361,Colombia,huila,Federacion Nacional de Cafeteros,,7.67,7.42,7.67,7.83,7.58,7.67,10,10,10,83.5
+362,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,8,7.58,7.25,7.58,7.92,7.58,10,10,10,83.5
+363,Guatemala,atitlan,The Coffee Source Inc.,Caturra,7.58,7.75,7.5,7.83,7.42,7.67,10,10,10,83.5
+364,Colombia,cundinamarca,Compañia Colombiana Agroindustrial S.A,Caturra,7.75,7.58,7.33,7.5,7.83,7.83,10,10,10,83.5
+365,Honduras,comayagua,,Caturra,7.67,7.5,7.67,7.5,7.67,7.67,10,10,10,83.5
+366,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.58,7.75,7.42,7.67,7.75,7.67,10,10,10,83.5
+367,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.58,7.67,7.58,7.75,7.58,7.75,10,10,10,83.5
+368,Mexico,xalapa,MANUEL HERRERA JUAREZ,Bourbon,7.83,7.58,7.25,7.5,7.5,7.42,10,10,10,83.5
+369,Mexico,chilón,MIGUEL CORTES MORENO,Typica,7.67,7.75,7.67,7.75,7.58,7.5,10,10,10,83.5
+370,Mexico,totutla,GABRIEL BERNARDO RIVAS ROSS,Pacamara,7.75,7.67,7.67,7.75,7.33,7.5,10,10,10,83.5
+371,Guatemala,atitlan,Juan Luis Alvarado Romero,Caturra,7.83,7.5,7.5,8,7.67,7.5,10,10,10,83.5
+372,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.67,7.58,7.58,7.67,7.67,7.67,10,10,10,83.5
+373,Guatemala,oriente,Felipe Isaza,Bourbon,7.5,7.5,7.75,7.5,8,7.67,10,10,10,83.5
+374,United States (Hawaii),,Kona Pacific Farmers Cooperative,,7.5,7.67,7.58,7.92,7.58,7.67,10,10,10,83.5
+375,Indonesia,bondowoso,Specialty Coffee Association of Indonesia,,7.83,7.58,7.58,7.58,7.75,7.58,10,10,10,83.5
+376,Colombia,huila,CARCAFE LTDA CI,Caturra,7.5,7.58,7.58,7.5,7.75,7.83,10,10,10,83.42
+377,Guatemala,san marcos,Juan Luis Alvarado Romero,Bourbon,7.67,7.75,7.5,7.58,7.58,7.67,10,10,10,83.42
+378,Colombia,huila,CARCAFE LTDA CI,Caturra,7.67,7.67,7.5,7.67,7.67,7.58,10,10,10,83.42
+379,Costa Rica,tarrazu,"CECA, S.A.",Caturra,7.58,7.5,7.42,7.92,7.5,7.67,10,10,10,83.42
+380,Taiwan,,CQI Taiwan ICP CQI台灣合作夥伴,,7.67,7.67,7,7.08,7,7,10,10,10,83.42
+381,Uganda,eastern,Bugisu Cooperative Union,SL14,7.58,7.75,7.33,7.75,7.67,7.58,10,10,10,83.42
+382,Thailand,thailand,松澤宏樹 Koju Matsuzawa,Catimor,7.5,7.58,7.75,7.5,7.75,7.67,10,10,10,83.42
+383,El Salvador,apaneca,Consejo Salvadoreño del Café,Bourbon,7.58,7.5,7.75,7.58,7.75,7.67,10,10,10,83.42
+384,Colombia,huila,CARCAFE LTDA CI,Caturra,7.58,7.67,7.58,7.67,7.58,7.67,10,10,10,83.42
+385,Brazil,vale da grama,BOURBON SPECIALTY COFFEES,Yellow Bourbon,7.33,7.83,7.75,7.5,7.42,7.83,10,10,10,83.42
+386,"Tanzania, United Republic Of",karatu northern,Ngila Estate Ltd,Bourbon,7.75,7.67,7.58,7.67,7.58,7.58,10,10,10,83.42
+387,Colombia,huila,Compañia Colombiana Agroindustrial S.A,Caturra,7.58,7.58,7.25,7.75,7.75,8.58,9.33,10,10,83.42
+388,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.75,7.83,7.33,7.83,7.5,7.67,10,10,10,83.42
+389,Guatemala,antigua,Juan Luis Alvarado Romero,Caturra,7.67,7.75,7.5,7.83,7.58,7.5,10,10,10,83.42
+390,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.67,7.5,7.75,7.42,7.75,7.75,10,10,10,83.42
+391,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.42,7.75,7.67,7.58,7.67,7.67,10,10,10,83.42
+392,Colombia,cundinamarca,Exportadora de Cafe Condor S.A,Caturra,7.5,7.75,7.58,7.5,7.67,7.75,10,10,10,83.42
+393,Colombia,huila,Federación Nacional de Cafeteros,,7.58,7.58,7.58,7.67,7.75,7.67,10,10,10,83.42
+394,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,,7.5,7.92,7.42,7.67,7.83,7.58,10,10,10,83.42
+395,Thailand,,Doi Tung Development Project,Peaberry,7.58,7.25,7.5,7.92,7.92,7.42,10,10,10,83.42
+396,Mexico,nayarit,Grounds for Health Admin,,7.25,7.88,7.38,7.63,7.5,8.75,9,10,10,83.38
+397,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.75,7.5,7.75,7.58,7.58,7.58,10,10,10,83.33
+398,Colombia,guayata,Racafe & Cia S.C.A,Caturra,7.67,7.58,7.58,7.42,7.67,7.75,10,10,10,83.33
+399,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.83,7.58,7.58,7.58,7.5,7.58,10,10,10,83.33
+400,Brazil,south of minas,Ipanema Coffees,Catuai,7.5,7.83,7.33,7.58,7.58,7.92,10,10,10,83.33
+401,Mexico,chiapas,ANDREAS KUSSMAUL,Caturra,7.75,7.75,7.5,7.67,7.5,7.58,10,10,10,83.33
+402,Colombia,santander,Exportadora de Cafe Condor S.A,Caturra,7.67,7.75,7.42,7.83,7.83,7.42,10,10,10,83.33
+403,"Tanzania, United Republic Of",arusha,AFCA,Other,7.75,7.58,7.67,7.58,7.58,7.58,10,10,10,83.33
+404,Mexico,veracruz,J.ANDRADE,Other,7.67,7.67,7.58,7.67,7.5,7.58,10,10,10,83.33
+405,Costa Rica,san ramon,The Coffee Source Inc.,Caturra,7.67,7.67,7.42,7.67,7.67,7.67,10,10,10,83.33
+406,United States (Hawaii),kona,Eileen Koyanagi,Hawaiian Kona,7.83,7.58,7.83,7.67,7.92,8,9.33,10,9.33,83.33
+407,Costa Rica,central valley,Eric Thormaehlen,Catuai,7.5,7.67,7.67,7.5,7.83,7.17,10,10,10,83.33
+408,Peru,,Dane Loraas,,7.83,7.75,7.58,7.83,7.92,7.58,9.33,10,10,83.33
+409,Haiti,"thiotte, haiti",ITIAH COFFEE LLC,Typica,7.58,7.5,7.67,7.5,7.83,7.42,10,10,10,83.33
+410,Colombia,pitalito,CARCAFE LTDA CI,Caturra,7.67,7.67,7.5,7.67,7.92,7.42,10,10,10,83.33
+411,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.83,7.67,7.17,7.67,7.67,7.67,10,10,10,83.33
+412,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.92,7.5,7.58,7.83,7.67,7.67,9.33,10,10,83.33
+413,Burundi,kayanza,Steven Kil,Bourbon,7.75,7.67,7.33,7.5,7.5,7.75,10,10,10,83.33
+414,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.5,7.67,7.67,7.58,7.67,7.58,10,10,10,83.33
+415,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,,8.08,7.83,7.83,7.75,7.67,7.58,9.33,10,9.33,83.33
+416,United States (Hawaii),,Kona Pacific Farmers Cooperative,,7.58,7.67,7.58,7.5,7.83,7.67,10,10,10,83.33
+417,Mexico,sierra madre occidental,CAFE DE DON BALBINO S.C. DE R.L. DE C.V.,Typica,7.67,7.83,7.42,7.83,7.33,7.5,10,10,10,83.25
+418,Costa Rica,tarrazu,Troy Quimby,Catuai,7.5,7.5,7.83,7.5,7.67,7.67,10,10,10,83.25
+419,Costa Rica,tarrazu,Rodrigo Soto,,7.83,7.5,7.42,7.67,7.5,7.67,10,10,10,83.25
+420,Guatemala,nuevo oriente,Juan Luis Alvarado Romero,Pacas,7.5,7.58,7.42,7.83,7.67,7.58,10,10,10,83.25
+421,Uganda,"sipi, mt elgon",Kawacom Uganda LTD,SL14,7.5,7.67,7.67,7.42,7.67,7.67,10,10,10,83.25
+422,Brazil,campos altos - cerrado,BOURBON SPECIALTY COFFEES,,7.58,7.67,7.42,7.5,7.67,7.42,10,10,10,83.25
+423,Colombia,huila,CARCAFE LTDA CI,Caturra,7.58,7.67,7.67,7.17,7.75,7.83,10,10,10,83.25
+424,Mexico,cuarenteño,PRODUCTOS Y SERVICIOS CHILINDRON S.A. DE C.V.,Typica,7.83,7.75,7.5,7.58,7.58,7.58,10,10,10,83.25
+425,Taiwan,natou county,"Lin, Che-Hao Krude 林哲豪",Bourbon,7.67,7.5,7.5,7.5,7.67,7.83,10,10,10,83.25
+426,Taiwan,南投國姓,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.92,7.83,7.75,7.58,7.5,7.33,10,10,10,83.25
+427,Colombia,eje cafetero,Compañia Colombiana Agroindustrial S.A,Caturra,7.58,7.58,7.5,7.58,7.58,7.75,10,10,10,83.25
+428,Guatemala,antigua,Juan Luis Alvarado Romero,Caturra,7.5,7.67,7.58,7.67,7.67,7.5,10,10,10,83.25
+429,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.83,7.5,7.67,7.33,7.67,7.67,10,10,10,83.25
+430,Mexico,chiapas,CALIXTO GUILLEN VAZQUEZ,Bourbon,7.58,7.75,7.5,7.5,7.58,7.58,10,10,10,83.25
+431,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.58,7.75,7.83,8,8.08,7.67,9.33,10,9.33,83.25
+432,Mexico,veracruz,ERNESTO RODRIGUEZ LUNA,Mundo Novo,7.75,7.58,7.58,7.58,7.5,7.58,10,10,10,83.25
+433,Mexico,fortín de las flores,MODESTO LANDEROS FLORES,Caturra,7.75,7.75,7.42,7.92,7.33,7.5,10,10,10,83.25
+434,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.83,7.58,7.08,7.83,7.42,8.08,10,10,10,83.25
+435,Brazil,grama valley,NUCOFFEE,Yellow Bourbon,7.75,7.67,7.5,7.58,7.58,7.58,10,10,10,83.25
+436,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.67,7.58,7.58,7.42,7.83,7.58,10,10,10,83.25
+437,Colombia,la plata,Racafe & Cia S.C.A,Caturra,7.67,7.67,7.5,7.5,7.58,7.67,10,10,10,83.25
+438,Colombia,huila,Exportadora de Cafe Condor S.A,,7.92,7.75,7.25,7.42,7.83,7.58,10,10,10,83.25
+439,Colombia,cauca,Exportadora de Cafe Condor S.A,,8,7.67,7.67,7.25,7.67,7.5,10,10,10,83.25
+440,Colombia,cundinamarca,Exportadora de Cafe Condor S.A,,7.92,7.75,7.5,7.42,7.42,7.67,10,10,10,83.25
+441,Brazil,south of minas,Ipanema Coffees,Bourbon,7.67,7.42,7.5,7.58,7.67,7.58,10,10,10,83.17
+442,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.58,7.58,7.33,7.67,7.75,7.58,10,10,10,83.17
+443,"Tanzania, United Republic Of",moshi,Taylor Winch (T) Ltd,Bourbon,7.67,7.58,7.42,7.67,7.67,7.58,10,10,10,83.17
+444,Peru,,ANDREA BERNAL,,7.92,7.5,7.5,7.58,7.67,7.5,10,10,10,83.17
+445,Vietnam,dala,"Sunvirtue Co., Ltd.",Catimor,7.58,7.42,7.08,7.33,7.58,8.58,10,10,10,83.17
+446,Guatemala,antigua,Juan Luis Alvarado Romero,Caturra,7.67,7.75,7.42,7.75,7.58,7.5,10,10,10,83.17
+447,Honduras,marcala,CADEXSA,Catuai,7.67,7.67,7.5,7.67,7.5,7.67,10,10,10,83.17
+448,China,yunnan,Yunnan Coffee Exchange,Catimor,7.5,7.67,7.33,7.67,7.67,7.67,10,10,10,83.17
+449,China,dehong prefecture,Yunnan Coffee Exchange,Catimor,7.67,7.67,7.5,7.67,7.42,7.58,10,10,10,83.17
+450,El Salvador,apaneca,Consejo Salvadoreño del Café,Bourbon,7.5,7.5,7.33,7.67,8,7.67,10,10,10,83.17
+451,Guatemala,antigua,Juan Luis Alvarado Romero,Bourbon,7.5,7.75,7.5,7.83,7.58,7.5,10,10,10,83.17
+452,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.92,7.67,7.42,7.75,7.5,7.5,10,10,10,83.17
+453,Kenya,kenya,Taylor Winch (Coffee) Ltd.,SL28,7.83,7.75,7.67,7.75,7.83,8.5,9.33,9.33,9.33,83.17
+454,Thailand,thailand,Doi Tung Development Project,,7.67,7.58,7.58,7.75,7.42,7.67,10,10,10,83.17
+455,"Tanzania, United Republic Of",mbinga,Tutunze Kahawa Ltd,Other,7.58,7.67,7.67,7.58,7.42,7.58,10,10,10,83.17
+456,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.58,7.5,7.5,7.67,7.5,7.67,10,10,10,83.17
+457,Uganda,eastern,Kabum Trading company,SL14,8,7.67,7.5,7.42,7.33,7.58,10,10,10,83.17
+458,Colombia,,Cafe Politico,,7.58,7.75,7.5,7.58,7.58,7.58,10,10,10,83.17
+459,Honduras,san marcos,Mayra Yessenia Torres,Catuai,7.5,7.5,7.5,7.67,7.67,7.67,10,10,10,83.17
+460,Honduras,comayagua,,Caturra,7.67,7.67,7.5,7.67,7.5,7.67,10,10,10,83.17
+461,Guatemala,san marcos,Juan Luis Alvarado Romero,Catuai,7.33,7.83,7.17,8.17,7.33,7.67,10,10,10,83.17
+462,United States (Hawaii),kona,Eileen Koyanagi,Hawaiian Kona,7.5,7.5,7.58,7.42,7.92,7.67,10,10,10,83.17
+463,"Tanzania, United Republic Of",kilimanjaro,Balam Hinyula,Bourbon,7.58,7.5,7.58,7.75,7.58,7.58,10,10,10,83.17
+464,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.67,7.83,7.33,7.67,7.5,7.67,10,10,10,83.17
+465,Mexico,chiapas,NESTOR MENDEZ GOMEZ,Typica,7.75,7.58,7.58,7.58,7.5,7.42,10,10,10,83.17
+466,Mexico,"tlanchinol, hidalgo",SAUL M. HERNANDEZ RAMIREZ,Typica,7.75,7.67,7.58,7.5,7.42,7.58,10,10,10,83.17
+467,Mexico,san bartolo tutotepec,SAUL M. HERNANDEZ RAMIREZ,Pacamara,7.58,7.75,7.42,7.67,7.5,7.58,10,10,10,83.17
+468,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.67,7.5,7.5,7.5,7.58,8.17,10,10,10,83.17
+469,Mexico,san isidro,FERNANDO MENDOZA APARICIO,Typica,7.75,7.5,7.42,7.75,7.58,7.58,10,10,10,83.17
+470,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.58,7.67,7.5,7.58,7.67,7.67,10,10,10,83.17
+471,Mexico,la concordia,ALFREDO BOJALIL,Typica,7.5,7.75,7.58,7.58,7.67,7.5,10,10,10,83.17
+472,Brazil,south of minas,NUCOFFEE,Mundo Novo,7.75,7.67,7.58,7.5,7.58,7.58,10,10,10,83.17
+473,Brazil,mogiana,NUCOFFEE,Mundo Novo,7.92,7.58,7.5,7.58,7.42,7.5,10,10,10,83.17
+474,Guatemala,oriente,Felipe Isaza,Bourbon,7.75,7.5,7.67,7.5,7.92,8,10,10,9.33,83.17
+475,Brazil,south of minas,NUCOFFEE,Mundo Novo,7.75,7.5,7.58,7.5,7.75,7.5,10,10,10,83.17
+476,Brazil,south of minas,NUCOFFEE,,7.58,7.75,7.67,7.5,7.67,7.58,10,10,10,83.17
+477,El Salvador,santa ana,The Coffee Source Inc.,,7.42,7.83,8.17,8.08,7.17,7.58,10,9.33,10,83.17
+478,Ethiopia,limu,Ethiopia Commodity Exchange,,7.75,8,7.67,8.08,7.83,7.92,9.33,9.33,9.33,83.17
+479,Colombia,cundinamarca,CARCAFE LTDA CI,Caturra,7.58,7.67,7.33,7.67,7.75,7.58,10,10,10,83.08
+480,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.75,7.5,7.5,7.42,8,7.75,10,10,10,83.08
+481,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.58,7.58,7.58,7.5,7.67,7.58,10,10,10,83.08
+482,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.33,7.67,7.67,7.33,7.75,7.42,10,10,10,83.08
+483,Taiwan,"dongshan dist., tainan city 臺南市東山區","Lin, Che-Hao Krude 林哲豪",Typica,7.83,7.92,7.5,7.83,7.67,7.25,9.33,10,10,83.08
+484,Brazil,chapadão de ferro (cerrado mineiro),BOURBON SPECIALTY COFFEES,Mundo Novo,7.42,7.67,7.58,7.5,7.75,7.67,10,10,10,83.08
+485,Brazil,south of minas,Ipanema Coffees,Bourbon,7.58,7.83,7.67,7.42,7.42,7.5,10,10,10,83.08
+486,Costa Rica,central valley,Eric Thormaehlen,Catuai,7.83,7.33,7.5,7.67,7.58,7.67,10,10,10,83.08
+487,United States (Hawaii),kona,Eileen Koyanagi,Hawaiian Kona,7.33,7.75,7.58,7.33,7.83,7.67,10,10,10,83.08
+488,Taiwan,chiayi alishan 嘉義縣阿里山鄉,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.75,7.75,7.5,7.5,7.5,7.5,10,10,10,83.08
+489,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.83,7.83,7.33,7.17,7.75,7.67,10,10,10,83.08
+490,Mexico,santa catarina juquila,MARIA LUISA DEL CARMEN ROJAS NARVAEZ,Other,7.75,7.67,7.42,7.75,7.5,7.5,10,10,10,83.08
+491,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.67,7.58,7.5,7.67,7.92,8,9.33,9.33,10,83.08
+492,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.33,7.58,7.58,7.92,7.67,7.58,10,10,10,83.08
+493,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.33,7.33,7.33,7.58,7.25,8.08,10,10,10,83.08
+494,Colombia,cauca,Exportadora de Cafe Condor S.A,,7.83,7.75,7.33,7.25,7.42,7.92,10,10,10,83.08
+495,Indonesia,dolok sanggul,Specialty Coffee Association of Indonesia,,7.67,7.58,7.5,7.58,7.67,7.58,10,10,10,83.08
+496,Guatemala,,Chris Finch,,7.92,7.67,7.67,7.25,7.83,7.67,9.33,10,10,83.08
+497,Brazil,south of minas,Ipanema Coffees,Bourbon,7.58,7.5,7.5,7.75,7.67,7.5,10,10,10,83
+498,Brazil,south of minas,Ipanema Coffees,Bourbon,7.5,7.58,7.58,7.67,7.58,7.5,10,10,10,83
+499,Brazil,south of minas,Ipanema Coffees,Bourbon,7.5,7.67,7.58,7.67,7.58,7.42,10,10,10,83
+500,Uganda,"kasese, mt. rwenzori",UCFA,Bourbon,7.67,7.58,7.42,7.42,7.83,7.5,10,10,10,83
+501,Uganda,"kasese, mt. rwenzori",UCFA,Bourbon,7.67,7.67,7.5,7.58,7.42,7.5,10,10,10,83
+502,Colombia,huila,CARCAFE LTDA CI,,7.67,7.67,7.33,7.67,7.5,7.58,10,10,10,83
+503,Vietnam,vietnam cau dat,"Sunvirtue Co., Ltd.",Caturra,7.75,7.67,7.58,7.58,7.42,7.67,9.33,10,10,83
+504,Guatemala,nuevo oriente,Juan Luis Alvarado Romero,Catuai,7.67,7.75,7.33,7.92,7.42,7.5,10,10,10,83
+505,Guatemala,"el tumbador, san marcos",Juan Luis Alvarado Romero,Catuai,7.75,7.67,7.33,7.75,7.5,7.42,10,10,10,83
+506,Guatemala,antigua,Juan Luis Alvarado Romero,Bourbon,7.83,7.67,7.25,7.67,7.75,7.5,10,10,10,83
+507,Brazil,high mogiana,Irene Alves Santos,Catuai,7.67,7.67,7.67,7.5,7.42,7.5,10,10,10,83
+508,Taiwan,嘉義阿里山,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.92,7.92,7.83,7.58,7.33,7.25,10,10,10,83
+509,Uganda,kapchorwa,Star Cafe Ltd,SL14,7.83,7.58,7.5,7.5,7.58,7.5,10,10,10,83
+510,United States (Puerto Rico),yauco region,German Negron,Other,7.67,7.5,7.67,7.83,7.75,7.83,10,10,9.33,83
+511,Guatemala,antigua,Juan Luis Alvarado Romero,Bourbon,7.67,7.67,7.42,7.83,7.5,7.5,10,10,10,83
+512,Costa Rica,central valley,Eric Thormaehlen,Catuai,7.67,7.58,7.5,7.58,7.5,7.5,10,10,10,83
+513,Brazil,sul de minas,Jacques Pereira Carneiro,Yellow Bourbon,7.75,7.58,7.42,7.67,7.42,7.67,10,10,10,83
+514,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.75,7.42,7.33,7.5,7.58,7.17,10,10,10,83
+515,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.83,7.5,7.58,7.33,7.5,7.67,10,10,10,83
+516,Colombia,pitalito,CARCAFE LTDA CI,Caturra,7.33,7.67,7.75,7.42,7.75,7.58,10,10,10,83
+517,Colombia,pitalito,CARCAFE LTDA CI,Caturra,7.58,7.75,7.42,7.67,7.58,7.42,10,10,10,83
+518,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.5,7.5,7.42,7.58,7.75,7.58,10,10,10,83
+519,Mexico,coatepec,ROSA AURORA FALCON FERNANDEZ,Typica,7.67,7.58,7.42,7.5,7.67,7.58,10,10,10,83
+520,Mexico,atoyac de alvarez,SANTIAGO SOLIS AYERDI,Typica,7.67,7.83,7.5,7.58,7.58,7.67,9.33,10,10,83
+521,Mexico,coatepec,ALFREDO BOJALIL,Bourbon,7.5,7.67,7.5,7.5,7.58,7.58,10,10,10,83
+522,Colombia,,Exportadora de Cafe Condor S.A,Arusha,7.67,7.58,7.5,7.5,7.75,7.5,10,10,10,83
+523,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.75,7.58,7.5,7.67,7.83,7.75,9.33,10,10,83
+524,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.67,7.58,7.58,7.58,7.67,7.42,10,10,10,83
+525,Guatemala,"la reforma, san marcos",Juan Luis Alvarado Romero,Bourbon,7.5,7.67,7.5,7.67,7.5,7.83,10,10,10,83
+526,Colombia,la plata,Racafe & Cia S.C.A,Caturra,7.67,7.67,7.58,7.5,7.67,7.42,10,10,10,83
+527,Thailand,,Doi Tung Development Project,,7.33,7.67,7.58,7.5,7.75,7.67,10,10,10,83
+528,Colombia,cauca,Racafe & Cia S.C.A,,7.33,7.67,7.58,7.33,7.58,7.92,10,10,10,83
+529,United States (Hawaii),,Kona Pacific Farmers Cooperative,,7.83,7.83,7.67,7.83,7.92,7.83,9.33,9.33,9.33,83
+530,United States (Hawaii),,Kona Pacific Farmers Cooperative,,7.5,7.58,7.42,7.58,7.58,7.67,10,10,10,83
+531,Colombia,huila,Exportadora de Cafe Condor S.A,,7.5,7.58,7.67,7.67,7.58,7.58,10,10,10,83
+532,Nicaragua,matagalpa,Grounds for Health Admin,Caturra,7.58,7.83,7.75,7.92,7.92,8.08,9.33,9.33,9.33,83
+533,Thailand,,Doi Tung Development Project,,7.5,7.25,7.42,7.75,8.17,7.5,10,10,10,83
+534,Brazil,south of minas,Ipanema Coffees,Bourbon,7.67,7.58,7.5,7.58,7.58,7.5,10,10,10,82.92
+535,El Salvador,apaneca,Consejo Salvadoreño del Café,Bourbon,7.5,7.5,7.75,7.58,7.92,7.83,10,10,9.33,82.92
+536,Colombia,guayata,Racafe & Cia S.C.A,Caturra,7.58,7.67,7.5,7.33,7.67,7.58,10,10,10,82.92
+537,Taiwan,"dongshan dist., tainan city 臺南市東山區","Lin, Che-Hao Krude 林哲豪",Caturra,7.17,7.83,7.25,7.67,7.67,7.58,10,10,10,82.92
+538,Ethiopia,"blida,kercha,guji,oromia",CQI Taiwan ICP CQI台灣合作夥伴,Ethiopian Heirlooms,7.58,7.58,7.5,7.5,7.58,7.58,10,10,10,82.92
+539,Taiwan,台東太麻里,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.5,7.58,7.67,7.33,7.5,7.75,10,10,10,82.92
+540,Philippines,"bukidnon, mindanao, philppines",Renee A. Perrine,Other,7.58,7.58,7.67,7.58,7.5,7.5,10,10,10,82.92
+541,Philippines,asia pacific,Zarah Zamora Perez,Other,8.08,7.5,7.67,7.42,7.33,7.5,10,10,10,82.92
+542,Mexico,cuarenteño,PRODUCTOS Y SERVICIOS CHILINDRON S.A. DE C.V.,Typica,7.83,7.67,7.25,7.58,7.5,7.5,10,10,10,82.92
+543,Mexico,chiapas,Andrew Bowman,Bourbon,7.75,7.67,7.42,7.42,7.75,7.5,10,10,10,82.92
+544,Brazil,cerrado,Expocaccer Coop dos Cafeic do Cerrado Ltda,Moka Peaberry,7.08,7.5,7.5,7.83,7.75,7.67,10,10,10,82.92
+545,Uganda,eastern,Kawacom Uganda LTD,SL14,8,7.5,7.5,7.58,7.33,7.42,10,10,10,82.92
+546,Uganda,west nile,Nyapea coffee farmers association,SL14,7.75,7.58,7.58,7.5,7.5,7.5,10,10,10,82.92
+547,Guatemala,antigua,Juan Luis Alvarado Romero,Bourbon,7.75,7.5,7.42,7.58,7.67,7.5,10,10,10,82.92
+548,Guatemala,antigua,Juan Luis Alvarado Romero,Caturra,7.67,7.83,7.42,7.5,7.33,7.5,10,10,10,82.92
+549,Guatemala,,Rob Tuttle,,7.58,7.58,7.25,7.58,7.58,7.58,10,10,10,82.92
+550,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.58,7.5,7.75,7.33,7.58,7.58,10,10,10,82.92
+551,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.75,7.5,7.25,7.5,7.75,7.5,10,10,10,82.92
+552,Guatemala,huehuetenango,Juan Luis Alvarado Romero,Bourbon,7.83,7.75,7.25,7.92,7.5,7.17,10,10,10,82.92
+553,Colombia,antioquia,Olam Agro Colombia,Other,7.83,7.67,7.42,7.42,7.5,7.58,10,10,10,82.92
+554,Mexico,petatlan,MARIA GUADALUPE GOMEZ ANZO,Typica,7.58,7.58,7.33,7.25,7.58,7.75,10,10,10,82.92
+555,Vietnam,don duong,Royal Base Corporation,Other,7.67,7.33,7.17,7.58,8.08,7.42,10,10,10,82.92
+556,Mexico,la cumbre,VERONICA LOPEZ CASTILLEJOS,Typica,8,7.92,7.67,7.17,7.67,7.42,9.33,10,10,82.92
+557,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.5,7.5,7.5,7.42,7.67,7.83,10,10,10,82.92
+558,Colombia,cauca,Racafe & Cia S.C.A,,7.5,7.75,7.33,7.75,7.08,7.83,10,10,10,82.92
+559,Thailand,,Doi Tung Development Project,,7.42,7.58,7.5,7.17,7.5,8,10,10,10,82.92
+560,Kenya,nyeri,Jungle Estate,SL28,7.75,7.58,7.42,7.58,7.5,7.5,10,10,10,82.83
+561,Guatemala,san marcos,Juan Luis Alvarado Romero,Bourbon,7.5,7.58,7.33,7.67,7.58,7.58,10,10,10,82.83
+562,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.67,7.58,7.58,7.5,7.5,7.42,10,10,10,82.83
+563,El Salvador,"el balsamo, quezaltepec",Consejo Salvadoreño del Café,Pacas,7.33,7.67,7.67,7.83,7.33,7.67,10,10,10,82.83
+564,Rwanda,gicumbi,Samuel Muhirwa,Bourbon,7.83,7.92,7.75,7.83,7.75,7.75,9.33,9.33,9.33,82.83
+565,Vietnam,vietnam tutra,"Sunvirtue Co., Ltd.",Other,7.25,7.58,7.5,7.42,7.75,7.42,10,10,10,82.83
+566,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.58,7.58,7.33,7.67,7.67,7.5,10,10,10,82.83
+567,Brazil,cerrado,Cafebras,Catuai,7.58,7.83,7.33,7.67,7.42,7.33,10,10,10,82.83
+568,Colombia,huila,EssenceCoffee,Other,7.83,7.67,7.5,7.58,7.5,7.67,10,10,10,82.83
+569,United States,berastagi,Joshua Marsceau,Other,7.42,7.58,7.25,7.5,7.75,7.75,10,10,10,82.83
+570,Guatemala,antigua,Juan Luis Alvarado Romero,Bourbon,7.67,7.67,7.75,7.67,7.42,7.17,10,10,10,82.83
+571,Colombia,santander,"Coffeebythebag.com , INC",Typica,7.5,7.42,7.58,7.5,7.58,7.58,10,10,10,82.83
+572,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.83,7.5,7.5,7.42,7.5,7.5,10,10,10,82.83
+573,"Tanzania, United Republic Of",arusha,Edwin Agasso,Arusha,7.67,7.5,7.33,7.25,7.58,7.75,10,10,10,82.83
+574,Mexico,la concordia,ARMANDO LUIS POHLENZ MARTINEZ,Caturra,7.58,7.67,7.5,7.58,7.5,7.5,10,10,10,82.83
+575,Mexico,veracruz,ALFREDO BOJALIL,Bourbon,7.67,7.58,7.42,7.75,7.42,7.42,10,10,10,82.83
+576,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.67,7.67,7.33,7.5,7.33,7.92,10,10,10,82.83
+577,Mexico,la concordia,ALFREDO BOJALIL,Typica,7.58,7.58,7.5,7.42,7.67,7.58,10,10,10,82.83
+578,El Salvador,santa ana,The Coffee Source Inc.,,7.75,7.58,7.75,7.75,7.25,7.5,10,10,10,82.83
+579,Guatemala,santa rosa,Juan Luis Alvarado Romero,Caturra,7.5,7.58,7.42,7.67,7.58,7.5,10,10,10,82.75
+580,Guatemala,santa rosa,Juan Luis Alvarado Romero,Caturra,7.58,7.67,7.5,7.58,7.5,7.42,10,10,10,82.75
+581,Guatemala,san marcos,Juan Luis Alvarado Romero,Bourbon,7.5,7.67,7.17,7.67,7.67,7.58,10,10,10,82.75
+582,Guatemala,santa rosa,Juan Luis Alvarado Romero,Bourbon,7.5,7.5,7.42,7.58,7.67,7.5,10,10,10,82.75
+583,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.42,7.58,7.42,7.67,7.5,7.5,10,10,10,82.75
+584,Indonesia,sapan toraja,SanJava Coffee,Sulawesi,7.5,7.58,7.42,7.58,7.58,7.5,10,10,10,82.75
+585,Guatemala,el progreso,Juan Luis Alvarado Romero,Bourbon,7.58,7.58,7.33,7.58,7.33,7.67,10,10,10,82.75
+586,Taiwan,"台南市東山區( dongshan dist., tainan city)","Lin, Che-Hao Krude 林哲豪",Yellow Bourbon,7.83,7.67,7.33,7.67,7.58,7.67,9.33,10,10,82.75
+587,El Salvador,cacahuatique,Consejo Salvadoreño del Café,Bourbon,7.67,7.67,7.17,7.33,7.58,7.67,10,10,10,82.75
+588,Costa Rica,tarrazu,"CECA, S.A.",Caturra,7.58,7.5,7.42,7.67,7.42,7.5,10,10,10,82.75
+589,Honduras,comayagua,Bismarck Castro,Caturra,7.58,7.5,7.42,7.58,7.5,7.5,10,10,10,82.75
+590,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.5,7.5,7.58,7.5,7.58,7.58,10,10,10,82.75
+591,China,yunnan,Yunnan Coffee Exchange,Catimor,7.67,7.5,7.33,7.33,7.67,7.67,10,10,10,82.75
+592,China,menglian,Yunnan Coffee Exchange,Catimor,7.5,7.67,7.42,7.67,7.5,7.5,10,10,10,82.75
+593,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.5,7.58,7.58,7.75,7.33,7.5,10,10,10,82.75
+594,Malawi,mzuzu,AFCA,Gesha,7.75,7.58,7.42,7.5,7.33,7.5,10,10,10,82.75
+595,Guatemala,jalapa,Juan Luis Alvarado Romero,Pacas,7.75,7.42,7.25,7.75,7.5,7.67,10,10,10,82.75
+596,Colombia,huila,Coffee Export,Typica,7.67,7.42,7.42,7.58,7.33,7.67,10,10,10,82.75
+597,United States (Hawaii),kona,Eileen Koyanagi,Hawaiian Kona,7.67,7.58,7.42,7.83,7.33,7.5,10,10,10,82.75
+598,United States (Hawaii),kona,Eileen Koyanagi,Hawaiian Kona,7.58,7.83,7.75,7.75,7.42,8,9.33,9.33,10,82.75
+599,Colombia,antioquia,The Coffee Source Inc.,Caturra,7.58,7.33,7.17,7.33,7.25,8.58,10,10,10,82.75
+600,Mexico,chiapas,NESTOR MENDEZ GOMEZ,Typica,7.58,7.58,7.5,7.5,7.5,7.5,10,10,10,82.75
+601,Mexico,veracruz,SERGIO DE LA VEQUIA BERNARDI,Typica,7.58,7.58,7.33,7.75,7.25,7.58,10,10,10,82.75
+602,Mexico,atoyac de alvarez,ROMULO BELLO FLORES,Typica,8.08,8.17,8,8,7.83,7.92,6.67,10,10,82.75
+603,Colombia,south huila,,Caturra,7.5,7.58,7.42,7.67,7.5,7.58,10,10,10,82.75
+604,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.67,7.58,7.58,7.58,7.5,7.42,10,10,10,82.75
+605,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.25,7.75,7.5,7.83,7.67,7.67,9.33,10,10,82.75
+606,Panama,boquete,Rachel Peterson,Catuai,7.42,7.42,7.5,7.58,7.5,7.75,10,10,10,82.75
+607,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,,7.75,7.67,7.5,7.83,7.17,7.42,10,10,10,82.75
+608,Brazil,south of minas,Ipanema Coffees,Bourbon,7.5,7.58,7.25,7.75,7.58,7.5,10,10,10,82.67
+609,Brazil,south of minas,Ipanema Coffees,Bourbon,7.5,7.58,7.5,7.67,7.5,7.42,10,10,10,82.67
+610,Laos,"paksong,laos",CQI Taiwan ICP CQI台灣合作夥伴,Catimor,7.67,7.67,7.42,7.42,7.42,7.5,10,10,10,82.67
+611,El Salvador,"el balsamo, quezaltepec",Consejo Salvadoreño del Café,Pacas,7.67,7.67,7.67,7.67,7.5,7.67,10,10,9.33,82.67
+612,Mexico,veracruz,José Luis Rojas Yeo,,7.5,7.67,7.42,7.75,7.42,7.17,10,10,10,82.67
+613,Colombia,huila,Federacion Nacional de Cafeteros,,7.75,7.5,7.33,7.58,7.33,7.75,10,10,10,82.67
+614,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.58,7.5,7.42,7.67,7.5,7.5,10,10,10,82.67
+615,Brazil,monte carmelo,BOURBON SPECIALTY COFFEES,Catuai,7.33,7.5,7.58,7.58,7.67,7.5,10,10,10,82.67
+616,"Tanzania, United Republic Of",karatu arusha,Nitin Coffee Estate,Other,7.5,7.5,7.5,7.5,7.5,7.58,10,10,10,82.67
+617,"Tanzania, United Republic Of",mbinga,Taylor Winch (T) Ltd,Bourbon,7.58,7.5,7.5,7.58,7.33,7.58,10,10,10,82.67
+618,Taiwan,嘉義阿里山,CQI Taiwan ICP CQI台灣合作夥伴,Typica,8,7.83,7.83,7.42,7.25,7.25,10,10,10,82.67
+619,Mexico,la yerba,PRODUCTOS Y SERVICIOS CHILINDRON S.A. DE C.V.,Typica,7.67,7.58,7.42,7.5,7.42,7.5,10,10,10,82.67
+620,Uganda,mt elgon,Kawacom Uganda LTD,SL14,7.67,7.5,7.33,7.67,7.5,7.5,10,10,10,82.67
+621,Taiwan,chiayi alishan 嘉義縣阿里山鄉,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.67,7.5,7.5,7.5,7.5,7.5,10,10,10,82.67
+622,Thailand,phahi,松澤宏樹 Koju Matsuzawa,Caturra,7.42,7.5,7.5,7.67,7.58,7.5,10,10,10,82.67
+623,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.75,7.58,7.67,7.25,7.58,7.42,10,10,10,82.67
+624,El Salvador,,Adam Kline,Other,7.92,8,7.5,6.75,7.92,7.58,10,10,9.33,82.67
+625,Guatemala,antigua,Juan Luis Alvarado Romero,Caturra,7.67,7.67,7.17,7.67,7.5,7.5,10,10,10,82.67
+626,Thailand,thailand,Doi Tung Development Project,Other,7.83,7.33,7.83,7.33,7.58,7.83,10,10,9.33,82.67
+627,Mexico,,MONTEGRANDE,Other,7.58,7.58,7.42,7.58,7.42,7.5,10,10,10,82.67
+628,Mexico,mahuixtlan,GRUPO CAFETALERO LOS BRUJOS SPR DE RL,Typica,7.5,7.58,7.58,7.58,7.42,7.42,10,10,10,82.67
+629,Colombia,52 narino (exact location: mattituy; municipal region: florida code 381,George A. Fernandez,,7.33,7.58,7.42,7.42,7.67,7.67,10,10,10,82.67
+630,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,,7.83,7.67,7.5,7.67,7.5,7.58,10,10,9.33,82.67
+631,Mexico,mexico,Young Kim,Blue Mountain,7.75,7.58,7.25,7.75,7.67,7.58,10,10,10,82.67
+632,Colombia,huila,Exportadora de Cafe Condor S.A,,8.08,7.67,7.67,7.33,7.33,7.17,10,10,10,82.67
+633,Colombia,,Racafe & Cia S.C.A,,7.5,7.42,7.33,7.33,7.67,7.83,10,10,10,82.67
+634,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.5,7.42,7.42,7.75,7.5,7.5,10,10,10,82.58
+635,Taiwan,國姓鄉 guoshing township,"Lin, Che-Hao Krude 林哲豪",Typica,7.67,7.42,7.5,7.42,7.58,7.5,10,10,10,82.58
+636,Brazil,south of minas,Gabriel Barbara,,7.5,7.58,7.42,7.5,7.75,7.33,10,10,10,82.58
+637,Taiwan,changhua baguashan 彰化市八卦山,CQI Taiwan ICP CQI台灣合作夥伴,,7.25,7.25,7,7.08,7,7,10,10,10,82.58
+638,Brazil,campos altos - cerrado,BOURBON SPECIALTY COFFEES,,7.42,7.42,7.5,7.33,7.25,7.67,10,10,10,82.58
+639,Indonesia,aceh,Andry Simarmata,Typica,7.83,7.58,7.42,7.33,7.42,7.5,10,10,10,82.58
+640,Thailand,thailand,Doi Tung Development Project,,7.75,7.33,7.42,7.67,7.42,7.5,10,10,10,82.58
+641,Thailand,chiangrai,松澤宏樹 Koju Matsuzawa,Caturra,7.42,7.58,7.58,7.42,7.58,7.5,10,10,10,82.58
+642,"Tanzania, United Republic Of",ikand village,Tembo Coffee Company Ltd,Other,7.75,7.42,7.33,7.5,7.58,7.5,10,10,10,82.58
+643,Uganda,eastern,Kawacom Uganda LTD,SL14,7.83,7.5,7.42,7.58,7.42,7.42,10,10,10,82.58
+644,Costa Rica,central valley,Eric Thormaehlen,Catuai,7.67,7.42,7.5,7.67,7,7.75,10,10,10,82.58
+645,Mexico,veracruz,Dane Loraas,,7.58,7.58,7.42,7.75,7.67,7.67,9.33,10,10,82.58
+646,Guatemala,,Brent Hall,,7.5,7.58,7.42,7.58,7.42,7.58,10,10,10,82.58
+647,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.75,7.25,7.33,7.42,7.5,7.83,10,10,10,82.58
+648,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.75,7.5,7.75,7.25,7.33,7.58,10,10,10,82.58
+649,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.58,7.5,7.42,7.58,7.67,7.42,10,10,10,82.58
+650,Mexico,oaxaca,GUILLERMO ROJAS SALDANA,Typica,7.5,7.58,7.5,7.5,7.42,7.5,10,10,10,82.58
+651,Mexico,colima,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,Typica,7.67,7.58,7.58,7.75,7.67,6.83,10,10,10,82.58
+652,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.33,7.42,7.58,7.42,7.67,7.5,10,10,10,82.58
+653,Brazil,south of minas,NUCOFFEE,Mundo Novo,7.58,7.5,7.33,7.75,7.5,7.5,10,10,10,82.58
+654,Brazil,south of minas,Ipanema Coffees,Bourbon,7.5,7.5,7.5,7.5,7.58,7.5,10,10,10,82.5
+655,Indonesia,bali,SanJava Coffee,Other,7.83,7.75,7.25,7.5,7.42,7.33,10,10,10,82.5
+656,Honduras,comayagua,Elsy Reyes,Caturra,7.58,7.58,7.33,7.5,7.5,7.5,10,10,10,82.5
+657,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.5,7.5,7.33,7.5,7.67,7.5,10,10,10,82.5
+658,Thailand,thailand,Doi Tung Development Project,,7.5,7.83,7.5,7.75,7.33,7.42,9.33,10,10,82.5
+659,Thailand,chiangrai,松澤宏樹 Koju Matsuzawa,Caturra,7.33,7.5,7.5,7.5,7.67,7.5,10,10,10,82.5
+660,"Tanzania, United Republic Of",karatu arusha,Shah Plantations,Other,7.67,7.42,7.33,7.58,7.5,7.5,10,10,10,82.5
+661,"Tanzania, United Republic Of",moshi,Amkeni Gourmet Coffee Group,Other,7.75,7,7.42,7.58,7.58,7.58,10,10,10,82.5
+662,Mexico,chiapas,LUSSO LAB,Other,7.42,7.58,7.5,7.67,7.25,7.5,10,10,10,82.5
+663,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.42,7.5,7.67,7.33,7.42,7.67,10,10,10,82.5
+664,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.83,7.42,7.33,7.67,7.42,7.5,10,10,10,82.5
+665,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.5,7.5,7.42,7.42,7.58,7.58,10,10,10,82.5
+666,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.83,7.67,7.17,7.33,7.5,7.67,10,10,10,82.5
+667,Mexico,san bartolo tutotepec,SAUL M. HERNANDEZ RAMIREZ,Typica,7.5,7.58,7.5,7.5,7.42,7.42,10,10,10,82.5
+668,Mexico,zapotitlan de mendez,ENRIQUE MITRE LOPEZ,Typica,7.67,7.5,7.33,7.67,7.5,7.33,10,10,10,82.5
+669,Mexico,la concordia,Enrique Eduardo Lopez Aguilar,Typica,7.92,7.5,7.33,7.58,7.25,7.42,10,10,10,82.5
+670,Guatemala,oriente,Juan Luis Alvarado Romero,Caturra,7.67,7.33,7.33,7.33,7.5,7.83,10,10,10,82.5
+671,Brazil,carmo de minas,Jacques Pereira Carneiro,Bourbon,7.67,7.42,7.33,7.67,7.5,7.5,10,10,10,82.5
+672,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.67,7.5,7.33,7.5,7.25,7.67,10,10,10,82.5
+673,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.33,7.42,7.33,7.75,7.42,7.67,10,10,10,82.5
+674,Guatemala,huehuetenango,Adam Kline,,7.75,7.58,7.67,7.67,7.58,7.58,9.33,10,10,82.5
+675,Honduras,"comayagua, honduras",Brian Beck,Other,7.42,7.67,7.17,7.58,7.58,7.5,10,10,10,82.42
+676,Guatemala,san marcos,Juan Luis Alvarado Romero,Bourbon,7.58,7.5,7.33,7.75,7.33,7.5,10,10,10,82.42
+677,Guatemala,san marcos,Juan Luis Alvarado Romero,Bourbon,7.67,7.58,7.25,7.67,7.42,7.33,10,10,10,82.42
+678,Guatemala,el progreso,Juan Luis Alvarado Romero,Bourbon,7.58,7.5,7.25,7.67,7.5,7.5,10,10,10,82.42
+679,Guatemala,santa rosa,Juan Luis Alvarado Romero,Caturra,7.5,7.42,7.08,7.75,7.67,7.5,10,10,10,82.42
+680,Colombia,guayata,Racafe & Cia S.C.A,Caturra,5.08,7.75,7.83,7.75,7.83,8.08,10,10,10,82.42
+681,China,yunnan,Yunnan Coffee Exchange,Catimor,7.67,7.42,7.42,7.5,7.42,7.42,10,10,10,82.42
+682,Brazil,campos altos - cerrado,BOURBON SPECIALTY COFFEES,,7.42,7.5,7.33,7.5,7.25,7.42,10,10,10,82.42
+683,"Tanzania, United Republic Of",arusha meru,Gladness Obed Pallangyo,Ruiru 11,7.67,7.25,7.42,7.42,7.67,7.42,10,10,10,82.42
+684,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.17,7.83,7.33,7.5,7.75,7.42,10,10,10,82.42
+685,Guatemala,atitlan,The Coffee Source Inc.,Caturra,7.5,7.5,7.5,7.67,7.42,7.5,10,10,10,82.42
+686,Mexico,la yerba,PRODUCTOS Y SERVICIOS CHILINDRON S.A. DE C.V.,Typica,7.42,7.5,7.42,7.58,7.42,7.5,10,10,10,82.42
+687,Brazil,south of minas,NUCOFFEE,Catuai,7.58,7.67,7.33,7.5,7.5,7.42,10,10,10,82.42
+688,Peru,peru,Dane Loraas,,7.58,7.58,7.58,7.75,7.5,7.58,9.33,10,10,82.42
+689,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.25,7.33,7.25,7.5,7.42,7.5,10,10,10,82.42
+690,Mexico,veracruz,MANUEL HERRERA JUAREZ,Bourbon,7.5,7.58,7.5,7.92,7.42,7.67,9.33,10,10,82.42
+691,Honduras,,Brent Hall,,7.25,7.67,7.42,7.17,7.75,7.5,10,10,10,82.42
+692,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.67,7.42,7.33,7.5,7.58,7.5,10,10,10,82.42
+693,Mexico,chiapas,NESTOR MENDEZ GOMEZ,Typica,7.5,7.42,7.42,7.67,7.42,7.58,10,10,10,82.42
+694,Mexico,san pedro cotzilnam,JESUS SALAZAR VELASCO,Typica,7.42,7.58,7.5,7.42,7.58,7.5,10,10,10,82.42
+695,Mexico,coatepec,"El Equimite, Cafetal Biodinámico",Typica,7.42,7.58,7.33,7.58,7.5,7.5,10,10,10,82.42
+696,Mexico,xalapa,MANUEL HERRERA JUAREZ,Caturra,7.75,7.33,7.25,7.58,7.58,7.33,10,10,10,82.42
+697,Mexico,zihuatanejo de azueta,DARIO CESAR GALEANA SANCHEZ,Typica,7.5,7.58,7.33,7.5,7.5,7.5,10,10,10,82.42
+698,Mexico,veracruz,JOSE DANIEL COBILT CASTRO,Pacamara,7.58,7.58,7.17,7.5,7.5,7.5,10,10,10,82.42
+699,Mexico,xicotepec de juarez,ALVARO QUIROS PEREZ,Caturra,7.58,7.33,7.33,7.58,7.5,7.5,10,10,10,82.42
+700,Mexico,progreso santa rosa teocelo,OLIVIA HERNANDEZ VIRVES,Bourbon,7.67,7.58,7.33,7.42,7.58,7.33,10,10,10,82.42
+701,Mexico,fln mirador,FINCA LAS NIEVES,Typica,7.83,7.5,7.42,7.67,7.17,7.33,10,10,10,82.42
+702,Colombia,huila,CARCAFE LTDA CI,Caturra,7.67,7.33,7.25,7.42,7.5,7.67,10,10,10,82.42
+703,Brazil,south of minas,NUCOFFEE,Arusha,7.75,7.5,7.42,7.42,7.5,7.42,10,10,10,82.42
+704,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.33,7.58,7.17,7.58,7.42,7.58,10,10,10,82.42
+705,Colombia,huila,Exportadora de Cafe Condor S.A,,7.58,7.25,7.42,7.25,7.58,7.83,10,10,10,82.42
+706,Honduras,comayagua,Bismarck Castro,Caturra,7.5,7.58,7.33,7.5,7.42,7.42,10,10,10,82.33
+707,Brazil,cerrado,Pedro Santos e Silva,Catuai,7.33,7.5,7.5,7.33,7.5,7.5,10,10,10,82.33
+708,Brazil,cerrado,Gabriel Barbara,,7.42,7.42,7.42,7.5,7.5,7.58,10,10,10,82.33
+709,Brazil,south of minas,Ipanema Coffees,Bourbon,7.5,7.5,7.42,7.5,7.42,7.5,10,10,10,82.33
+710,Costa Rica,tarrazu,"CECA, S.A.",Caturra,7.75,7.5,7.25,7.25,7.42,7.67,10,10,10,82.33
+711,Costa Rica,tarrazu,Rodrigo Soto,Catuai,7.75,7.33,7.5,7.5,7.33,7.58,10,10,10,82.33
+712,China,xishuangbanna prefecture,Yunnan Coffee Exchange,Catimor,7.5,7.58,7.42,7.5,7.42,7.42,10,10,10,82.33
+713,Brazil,south of minas,Ipanema Coffees,Bourbon,8.25,7.83,7.25,8.33,8.17,8.08,10,6.67,10,82.33
+714,Brazil,chapadão de ferro (cerrado mineiro),BOURBON SPECIALTY COFFEES,Mundo Novo,7.42,7.5,7.5,7.42,7.5,7.58,10,10,10,82.33
+715,Guatemala,huehuetenango,Juan Luis Alvarado Romero,Bourbon,7.5,7.42,7.17,7.83,7.5,7.5,10,10,10,82.33
+716,Malawi,mzuzu,AFCA,Gesha,7.33,7.58,7.42,7.58,7.33,7.5,10,10,10,82.33
+717,Brazil,south of minas,Ipanema Coffees,Bourbon,7.75,8.08,7.67,8.08,8.08,8,10,10,6.67,82.33
+718,Guatemala,jalapa,Juan Luis Alvarado Romero,Pacas,7.58,7.67,7.5,7.58,7.75,7.5,9.33,10,10,82.33
+719,Mexico,veracruz,Dane Loraas,,7.33,7.58,7.42,7.5,7.5,7.5,10,10,10,82.33
+720,Colombia,antioquia,The Coffee Source Inc.,Caturra,7.42,7.33,7.5,7.17,7.08,8.33,10,10,10,82.33
+721,Taiwan,changhua baguashan 彰化市八卦山,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,82.33
+722,Taiwan,taichung xinshe 台中市新社區,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,82.33
+723,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.5,7.42,7.58,7.5,7.5,7.58,10,10,10,82.33
+724,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.5,7.42,7.5,7.5,7.5,7.58,10,10,10,82.33
+725,Mexico,"la concordia, chiapas",ALFREDO BOJALIL,Typica,7.67,7.5,7.42,7.5,7.42,7.42,10,10,10,82.33
+726,Costa Rica,central valley,Michael Gavina,,7.92,7.58,7.25,7.75,7.92,7.58,9.33,9.33,10,82.33
+727,Guatemala,jalapa,Juan Luis Alvarado Romero,Bourbon,7.67,7.5,7.33,7.67,7.5,7.33,10,10,10,82.33
+728,Mexico,"jaltocan, hidalgo",SAUL M. HERNANDEZ RAMIREZ,Typica,7.58,7.67,7.58,7.33,7,7.58,10,10,10,82.33
+729,Mexico,veracruz,MANUEL HERRERA JUAREZ,Bourbon,7.67,7.58,7.5,7.58,7.5,7.5,10,10,10,82.33
+730,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.5,7.67,7.33,7.5,7.33,7.5,10,10,10,82.33
+731,Brazil,grama valley,NUCOFFEE,Mundo Novo,7.58,7.5,7.42,7.5,7.5,7.42,10,10,10,82.33
+732,Mexico,santa catarina juquila,MARIA LUISA DEL CARMEN ROJAS NARVAEZ,Typica,8,7.75,7.33,7.33,7.08,7.67,9.33,10,10,82.33
+733,Brazil,south of minas,NUCOFFEE,Mundo Novo,7.58,7.58,7.25,7.58,7.42,7.5,10,10,10,82.33
+734,Colombia,huila,CARCAFE LTDA CI,Caturra,7.83,7.58,7.33,7.25,7.58,7.42,10,10,10,82.33
+735,Brazil,brazil matas de minas,KlemOrganics,Catuai,7.58,7.5,7.25,7.42,7.67,7.33,10,10,10,82.25
+736,Taiwan,,CQI Taiwan ICP CQI台灣合作夥伴,,7,7.08,7,7.17,7,7,10,10,10,82.25
+737,Guatemala,nuevo oriente,Juan Luis Alvarado Romero,Pacas,7.67,7.5,7.25,7.67,7.42,7.42,10,10,10,82.25
+738,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.42,7.67,7.5,7.08,7.5,7.42,10,10,10,82.25
+739,El Salvador,apaneca,Consejo Salvadoreño del Café,Bourbon,7.58,7.67,7.5,7.67,7.83,8.42,9.33,9.33,9.33,82.25
+740,Honduras,marcala,CADEXSA,Catuai,7.58,7.5,7.42,7.58,7.42,7.42,10,10,10,82.25
+741,Malawi,mzuzu,AFCA,Gesha,7.58,7.42,7.33,7.42,7.58,7.5,10,10,10,82.25
+742,Brazil,south of minas,Ipanema Coffees,Bourbon,7.75,7.58,7.42,7.42,7.33,7.33,10,10,10,82.25
+743,Taiwan,nantou,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,82.25
+744,Mexico,veracruz,JESUS CARLOS CARDENAS VALDIVIA,Mundo Novo,7.58,7.58,7.42,7.42,7.42,7.42,10,10,10,82.25
+745,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.33,7.42,7.5,7.67,7.5,7.42,10,10,10,82.25
+746,Mexico,"calnali, hidalgo",SAUL M. HERNANDEZ RAMIREZ,Bourbon,7.58,7.58,7.5,7.17,7.42,7.42,10,10,10,82.25
+747,Guatemala,antigua,Juan Luis Alvarado Romero,Bourbon,7.5,7.5,7.33,7.58,7.67,7.33,10,10,10,82.25
+748,Mexico,veracruz,MANUEL HERRERA JUAREZ,Bourbon,7.5,7.58,7.42,7.67,7.33,7.42,10,10,10,82.25
+749,Mexico,juquila,GUILLERMO ROJAS SALDANA,Typica,7.67,7.58,7.33,7.5,7.42,7.42,10,10,10,82.25
+750,El Salvador,,Adam Kline,Other,7.75,7.33,7.33,7.5,7.5,7.5,10,10,10,82.25
+751,Mexico,veracruz,SERGIO DE LA VEQUIA BERNARDI,Typica,7.33,7.58,7.42,7.67,7.33,7.5,10,10,10,82.25
+752,Mexico,canoas,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,Typica,7.42,7.5,7.42,7.58,7.42,7.5,10,10,10,82.25
+753,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.5,7.42,7.67,7.33,7.58,7.33,10,10,10,82.25
+754,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.67,7.33,7.33,7.33,7.5,7.5,10,10,10,82.25
+755,Brazil,,NUCOFFEE,Arusha,7.67,7.58,7.42,7,7.5,7.58,10,10,10,82.25
+756,Colombia,cauca,Racafe & Cia S.C.A,,7.17,7.25,7.58,7.25,7.58,7.67,10,10,10,82.25
+757,Brazil,south of minas,Ipanema Coffees,Bourbon,7.42,7.42,7.5,7.42,7.42,7.5,10,10,10,82.17
+758,Honduras,comayagua,Bismarck Castro,Caturra,7.5,7.5,7.17,7.42,7.5,7.5,10,10,10,82.17
+759,Nicaragua,jinotega,"BENCAFE, S. A.",,7.5,7.5,7.33,7.42,7.5,7.42,10,10,10,82.17
+760,"Tanzania, United Republic Of",ruvuma,Langiro Farm group,Bourbon,7.58,7.42,7.42,7.33,7.5,7.42,10,10,10,82.17
+761,"Tanzania, United Republic Of",northern,IBERO COFFEE TRADING CO (T) LTD,Other,7.42,7.42,7.42,7.5,7.5,7.33,10,10,10,82.17
+762,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,6.92,7.58,7.42,7.33,7.83,7.5,10,10,10,82.17
+763,Thailand,thailand,Doi Tung Development Project,,7.42,7.42,7.17,7.75,7.25,7.67,10,10,10,82.17
+764,Honduras,marcala,CADEXSA,Catuai,7.67,7.5,7.25,7.42,7.58,7.42,10,10,10,82.17
+765,Guatemala,atitlan,EssenceCoffee,Bourbon,7.42,7.42,7.5,7.5,7.42,7.5,10,10,10,82.17
+766,Brazil,cerrado,BOURBON SPECIALTY COFFEES,Mundo Novo,7.58,7.5,7.42,7.25,7.5,7.42,10,10,10,82.17
+767,"Tanzania, United Republic Of","ilomba vilage, mbozi",Tembo Coffee Company Ltd,Other,7.75,7.42,7.42,7.58,7.33,7.42,10,10,10,82.17
+768,Mexico,veracruz,J.ANDRADE,Other,7.42,7.33,7.17,7.42,7.33,8.17,10,10,10,82.17
+769,Mexico,"la concordia, chiapas",LUSSO LAB,Other,7.5,7.5,7.33,7.42,7.5,7.42,10,10,10,82.17
+770,Taiwan,yunlin 雲林縣石壁,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.5,7.5,7.5,7.5,7.5,7.5,10,10,10,82.17
+771,Taiwan,"dongshan dist., tainan city 臺南市東山區","Lin, Che-Hao Krude 林哲豪",Typica,7.67,7.5,7.5,7.17,7.17,7.58,10,10,10,82.17
+772,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.33,7.25,7.25,7.58,7.75,7.5,10,10,10,82.17
+773,Mexico,san bartolo tutotepec,SAUL M. HERNANDEZ RAMIREZ,Typica,7.5,7.67,7,7.5,7.33,7.5,10,10,10,82.17
+774,Guatemala,oriente,The Coffee Source Inc.,Caturra,7.25,7.75,7,7.75,8.17,7.75,10,10,9.33,82.17
+775,Mexico,altotonga,SALVADOR CARO CARRION,Typica,7.5,7.58,7.25,7.5,7.5,7.33,10,10,10,82.17
+776,Mexico,colima,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,Typica,7,7.67,7.5,7.5,7.42,7.5,10,10,10,82.17
+777,Colombia,huila,Exportadora de Cafe Condor S.A,,7.58,7.67,7.42,7.17,7.17,7.75,10,10,10,82.17
+778,Indonesia,aceh gayo,SanJava Coffee,Bourbon,7.5,7.5,7.42,7.42,7.5,7.42,10,10,10,82.08
+779,Colombia,huila,Raúl Vargas,Caturra,7.75,7.58,7.42,7.67,7.83,7.58,9.33,9.33,10,82.08
+780,Brazil,south of minas,Ipanema Coffees,Bourbon,7.42,7.58,7.42,7.5,7.42,7.25,10,10,10,82.08
+781,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.25,7.25,7.58,7.58,7.25,7.92,10,10,10,82.08
+782,Costa Rica,tres rios,"CAFETALERA INTERNACIONAL CAFINTER, S.A.",Caturra,7.75,7.42,7.42,7.25,7.17,7.42,10,10,10,82.08
+783,"Tanzania, United Republic Of",kilimanjaro,Balam Hinyula,Bourbon,7.42,7.33,7.42,7.42,7.5,7.58,10,10,10,82.08
+784,"Tanzania, United Republic Of",ngorogoro,Ngorogoro Convenant Estate,Other,7.42,7.5,7.5,7.33,7.33,7.5,10,10,10,82.08
+785,Colombia,,Cafe Politico,,7.5,7.42,7.42,7.42,7.67,7.42,10,10,10,82.08
+786,Costa Rica,turrialba,"CECA, S.A.",Caturra,7.58,7.33,7.33,7.33,7.5,7.67,10,10,10,82.08
+787,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.25,7.58,7.58,7.25,7.5,7.42,10,10,10,82.08
+788,Mexico,coatepec,"El Equimite, Cafetal Biodinámico",Typica,7.42,7.58,7.5,7.33,7.42,7.42,10,10,10,82.08
+789,Mexico,tapachula,JULIO PEREZ HERNANDEZ,Typica,7.5,7.42,7.42,7.5,7.25,7.5,10,10,10,82.08
+790,Mexico,coatepec,ROSA AURORA FALCON FERNANDEZ,Typica,7.67,7.5,7.25,7.58,7.42,7.33,10,10,10,82.08
+791,Vietnam,don duong,Royal Base Corporation,Other,7.67,8,7.17,7.08,7.67,7.08,10,10,10,82.08
+792,Mexico,veracruz,SERGIO DE LA VEQUIA BERNARDI,Typica,7.58,7.42,7.25,7.75,7.33,7.42,10,10,10,82.08
+793,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.33,7.5,7.33,7.58,7.08,7.83,10,10,10,82.08
+794,Colombia,cauca,CARCAFE LTDA CI,,7.67,7.42,7.67,7.33,7.25,7.58,10,10,10,82.08
+795,Honduras,el paraíso,Bismarck Castro,Caturra,7.5,7.5,7.17,7.5,7.5,7.42,10,10,10,82
+796,Honduras,guinope el paraíso,Bismarck Castro,Caturra,7.5,7.5,7.25,7.33,7.42,7.5,10,10,10,82
+797,Brazil,south of minas,Ipanema Coffees,Bourbon,7.5,7.33,7.42,7.5,7.33,7.42,10,10,10,82
+798,"Tanzania, United Republic Of",kilimanjaro,Didas,Other,7.67,7.33,7.33,7.42,7.42,7.42,10,10,10,82
+799,Laos,lao p.d.r.,Minwook Ku,Other,7.42,7.5,7.25,7.33,7.5,7.5,10,10,10,82
+800,"Tanzania, United Republic Of",meru,Finca Estate,Other,7.42,7.42,7.33,7.58,7.33,7.42,10,10,10,82
+801,Malawi,mzuzu,AFCA,Gesha,7.5,7.42,7.33,7.58,7.33,7.5,10,10,10,82
+802,Taiwan,"dongshan dist., tainan city 臺南市東山區","Lin, Che-Hao Krude 林哲豪",Typica,7.33,7.5,7.17,7.42,7.5,7.33,10,10,10,82
+803,Thailand,thailand,Doi Tung Development Project,,7.58,7.5,7.42,7.42,7.33,7.42,10,10,10,82
+804,Costa Rica,central valley,Eric Thormaehlen,Catuai,7.5,7.25,7.33,7.33,7.75,7.5,10,10,10,82
+805,Honduras,occidental,Beneficio Santa Rosa,Caturra,7.33,7.33,7.33,7.5,7.5,7.83,10,10,10,82
+806,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.33,7.33,7.58,7.5,7.5,7.58,10,10,10,82
+807,Taiwan,"dongshan dist., tainan city 臺南市東山區","Lin, Che-Hao Krude 林哲豪",Typica,7.42,7.58,7.33,7.42,8,7.5,9.33,10,10,82
+808,Brazil,"minas gerais, br",Owen Carver,Mundo Novo,7.33,7.67,7.42,7.17,7.33,7.42,10,10,10,82
+809,Mexico,coscomatepec,JORGE OCTAVIO ESCAMILLA PRADO,Typica,7.67,7.33,7.25,7.5,7.42,7.42,10,10,10,82
+810,Brazil,south of minas,NUCOFFEE,Mundo Novo,7.42,7.5,7.33,7.5,7.33,7.5,10,10,10,82
+811,Brazil,cerrado,NUCOFFEE,Catuai,7.42,7.5,7.25,7.5,7.5,7.42,10,10,10,82
+812,Guatemala,san marcos,Juan Luis Alvarado Romero,Bourbon,7.33,7.33,7.33,7.5,7.67,7.67,10,10,10,82
+813,Brazil,south of minas,NUCOFFEE,Mundo Novo,7.58,7.5,7.17,7.5,7.5,7.42,10,10,10,82
+814,Guatemala,oriente,Felipe Isaza,Bourbon,7.75,7.33,7.33,7.42,7.75,7.67,10,10,9.33,82
+815,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.33,7,7.08,7.42,7.5,7.67,10,10,10,82
+816,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.58,7.5,7.25,7.58,7.58,7.5,9.33,10,10,81.92
+817,Guatemala,santa rosa,Juan Luis Alvarado Romero,Bourbon,7.5,7.5,7.25,7.42,7.42,7.42,10,10,10,81.92
+818,Honduras,comayagua,Bismarck Castro,Caturra,7.58,7.5,7.25,7.33,7.42,7.5,10,10,10,81.92
+819,Brazil,monte carmelo,Gabriel Barbara,Catuai,7.42,7.33,7.33,7.5,7.5,7.33,10,10,10,81.92
+820,El Salvador,"el balsamo, quezaltepec",Consejo Salvadoreño del Café,Bourbon,7.67,7.58,7.33,7.5,7.5,7.67,10,10,9.33,81.92
+821,Guatemala,nuevo oriente,Juan Luis Alvarado Romero,Catuai,7.58,7.58,7.17,7.83,7.17,7.33,10,10,10,81.92
+822,"Tanzania, United Republic Of",mbeya,Mcomafa Co Ltd,Other,7.33,7.33,7.33,7.42,7.5,7.58,10,10,10,81.92
+823,Nicaragua,,Chris Finch,,7.58,7.42,7.25,7.17,7.5,7.67,10,10,10,81.92
+824,Zambia,mubuyu estate,LUSSO LAB,SL28,7.67,7.08,7.42,7.33,7.75,7.42,10,10,10,81.92
+825,Honduras,,Rob Tuttle,,7.42,7.33,7.33,7.58,7.33,7.5,10,10,10,81.92
+826,Taiwan,taichung xinshe 台中市新社區,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.5,7.5,7.42,7.25,7.5,7.5,10,10,10,81.92
+827,Mexico,chiapas,CALIXTO GUILLEN VAZQUEZ,Bourbon,7.58,7.5,7.25,7.58,7.5,7.25,10,10,10,81.92
+828,Mexico,"chapulhuacan, hidalgo",SAUL M. HERNANDEZ RAMIREZ,Typica,7.5,7.5,7.25,7.25,7.5,7.5,10,10,10,81.92
+829,Mexico,"huazalingo, hidalgo",SAUL M. HERNANDEZ RAMIREZ,Mundo Novo,7.5,7.42,7.25,7.5,7.33,7.33,10,10,10,81.92
+830,Mexico,veracruz,JUAN HERMILIO SAMPIERI CARCAMO,Other,7.33,7.58,7.17,7.58,7.42,7.33,10,10,10,81.92
+831,Mexico,fortín de las flores,MODESTO LANDEROS FLORES,Bourbon,7.67,7.42,7.33,7.83,7.5,7.5,9.33,10,10,81.92
+832,Brazil,grama valley,NUCOFFEE,Mundo Novo,7.42,7.58,7.25,7.5,7.33,7.5,10,10,10,81.92
+833,Colombia,cundinamarca,Exportadora de Cafe Condor S.A,,7.67,7.33,7.33,7.58,7.33,7.33,10,10,10,81.92
+834,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.42,7.5,7.25,7.5,7.33,7.42,10,10,10,81.83
+835,Costa Rica,tarrazu,Troy Quimby,Catuai,7.25,7.33,7.5,7.33,7.67,7.42,10,10,10,81.83
+836,Brazil,monte carmelo,Gabriel Barbara,Mundo Novo,7.42,7.5,7.42,7.5,7.42,7.25,10,10,10,81.83
+837,Indonesia,bali,Aulia Arif Syahri,Other,7.75,7.83,7.58,7.75,7.92,7.83,10,10,10,81.83
+838,Guatemala,norte,Juan Luis Alvarado Romero,Bourbon,7.58,7.5,7.33,7.42,7.58,7.25,10,10,10,81.83
+839,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.17,7.58,6.83,7.5,7.75,7.25,10,10,10,81.83
+840,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.58,7,6.92,6.92,7.67,7.5,10,10,10,81.83
+841,Myanmar,ywar ngan,U Mg Mg,Catuai,7.33,7.58,7.5,7.42,7.33,7.33,10,10,10,81.83
+842,Mexico,chiapas,VIRIDIANA,Catuai,7.58,7.5,7.33,7.5,7.17,7.33,10,10,10,81.83
+843,Honduras,marcala,CADEXSA,Catuai,7.5,7.5,7.33,7.5,7.42,7.25,10,10,10,81.83
+844,Costa Rica,tres rios,"CAFETALERA INTERNACIONAL CAFINTER, S.A.",Caturra,7.67,7.5,7.5,7.25,7.08,7.42,10,10,10,81.83
+845,Taiwan,"dongshan dist., tainan city 臺南市東山區","Lin, Che-Hao Krude 林哲豪",Typica,7.67,7.33,7.17,7.25,7.75,7.33,10,10,10,81.83
+846,Indonesia,lington nihuta,EssenceCoffee,Typica,7.42,7.42,7.42,7.33,7.42,7.42,10,10,10,81.83
+847,Malawi,kakoma,AFCA,Gesha,7.58,7.42,7.33,7.33,7.33,7.42,10,10,10,81.83
+848,Brazil,south of minas,Ipanema Coffees,Bourbon,7.33,7.58,7.25,7.17,7.83,7.33,10,10,10,81.83
+849,Honduras,comayagua,,Caturra,7.5,7.5,7.33,7.33,7.33,7.33,10,10,10,81.83
+850,Mexico,"siltepec el triunfo, chiapas, mexico",Kurt Kappeli,Typica,7.42,7.42,7.25,7.5,7.33,7.42,10,10,10,81.83
+851,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.5,7.5,7,7.42,7.5,7.58,10,10,10,81.83
+852,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.83,7.83,7.83,8,7.83,7.83,10,6.67,10,81.83
+853,Brazil,sul de minas,Jacques Pereira Carneiro,Bourbon,7.75,7.75,7.5,7.42,7.83,7.75,9.33,9.33,9.33,81.83
+854,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.83,7.67,7.33,7.33,7.67,7.83,9.33,10,9.33,81.83
+855,Mexico,veracruz,CHRISTINA DUSING,Bourbon,7.83,7.33,7.25,7.58,7.25,7.33,10,10,10,81.83
+856,Mexico,coatepec,JORGE FRANCISCO MARTINEZ HACHITY,Typica,7.33,7.33,7.25,7.5,7.5,7.5,10,10,10,81.83
+857,Brazil,cerrado,NUCOFFEE,Mundo Novo,7.33,7.67,7.25,7.5,7.5,7.25,10,10,10,81.83
+858,Colombia,huila,Exportadora de Cafe Condor S.A,,7.58,7.5,7.17,7.58,7.33,7.33,10,10,10,81.83
+859,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,,7.25,7.58,7.83,7.67,7.75,7.75,9.33,9.33,10,81.83
+860,Guatemala,san marcos,Juan Luis Alvarado Romero,Bourbon,7.5,7.5,7.25,7.42,7.42,7.33,10,10,10,81.75
+861,Vietnam,vietnam,"Sunvirtue Co., Ltd.",Caturra,7,7.08,7.33,7.5,7.5,7.33,10,10,10,81.75
+862,"Tanzania, United Republic Of",ngorogoro,Ngorogoro Convenant Estate,Other,7.42,7.42,7.42,7.42,7.33,7.33,10,10,10,81.75
+863,Brazil,,Cafe Politico,,7.17,7.25,7.17,7.25,7.42,8.25,10,10,10,81.75
+864,Mexico,"tenango de doria, hidalgo",SAUL M. HERNANDEZ RAMIREZ,Bourbon,7.5,7.5,7.33,7.42,7.25,7.25,10,10,10,81.75
+865,Mexico,tepictla,SERGIO LANDA ALARCON,Mundo Novo,7.42,7.5,7.17,7.67,7.33,7.42,10,10,10,81.75
+866,Mexico,oaxaca,DIEGO MANUEL WOOLRICH RAMIREZ,Typica,7.42,7.5,7.33,7.58,7.33,7.33,10,10,10,81.75
+867,Mexico,la concordia,ARMANDO LUIS POHLENZ MARTINEZ,Caturra,7.33,7.42,7.33,7.67,7.42,7.25,10,10,10,81.75
+868,Mexico,la concordia,Enrique Eduardo Lopez Aguilar,Typica,7.5,7.42,7.25,7.33,7.67,7.25,10,10,10,81.75
+869,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.33,7.42,7.33,7.33,7.5,7.67,10,10,10,81.75
+870,Colombia,huila,Racafe & Cia S.C.A,,7.42,7.58,6.92,7.08,7.25,8,10,10,10,81.75
+871,Brazil,south of minas,Ipanema Coffees,Bourbon,7.42,7.5,7.25,7.5,7.5,7.25,10,10,10,81.67
+872,Guatemala,san marcos,Juan Luis Alvarado Romero,Bourbon,7.42,7.42,7.08,7.42,7.33,7.42,10,10,10,81.67
+873,Guatemala,santa rosa,Juan Luis Alvarado Romero,Bourbon,7.42,7.33,7.17,7.67,7.33,7.42,10,10,10,81.67
+874,Honduras,marcala,CADEXSA,Catuai,7.58,7.5,7.33,7.33,7.42,7.25,10,10,10,81.67
+875,"Tanzania, United Republic Of",mbinga,Taylor Winch (Coffee) Ltd.,,7.17,7.33,7.33,7.42,7.5,7.33,10,10,10,81.67
+876,Nicaragua,jinotega,"COMERCIAL INTERNACIONAL EXPORTADORA, S.A.",,7.58,7.5,7.25,7.25,7.5,7.25,10,10,10,81.67
+877,Colombia,la plata,Racafe & Cia S.C.A,,7.75,7.75,7.75,7.67,5.25,7.83,10,10,10,81.67
+878,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.25,7.75,6.92,7.42,7.5,7.58,10,10,10,81.67
+879,"Tanzania, United Republic Of",mbinga,DAE Ltd Company,Other,7.42,7.33,7.25,7.42,7.5,7.42,10,10,10,81.67
+880,"Tanzania, United Republic Of","ilomba vilage, mbozi",Tembo Coffee Company Ltd,Other,7.33,7.33,7.5,7.25,7.42,7.33,10,10,10,81.67
+881,Brazil,south of minas,Ipanema Coffees,Bourbon,7.25,7.42,7.25,7.5,7.5,7.42,10,10,10,81.67
+882,Indonesia,bener meriah,Chris Finch,Sumatra,7.17,7.42,7.33,7.42,7.33,7.42,10,10,10,81.67
+883,Honduras,comayagua,,Caturra,7.5,7.33,7.5,7.5,7.17,7.17,10,10,10,81.67
+884,Costa Rica,tarrazu,"CECA, S.A.",Caturra,7.5,7.17,7.17,7.17,7.5,7.08,10,10,10,81.67
+885,Mexico,veracruz,Dane Loraas,,7.42,7.42,7.67,8,7.58,7.5,9.33,9.33,10,81.67
+886,Taiwan,changhua baguashan 彰化市八卦山,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.5,7.5,7.5,7.25,7.42,7.25,10,10,10,81.67
+887,Taiwan,nantou,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.58,7.42,7.33,7.42,7.33,7.33,10,10,10,81.67
+888,Mexico,"la concordia, chiapas",FREDY GORDILLO REYES,Typica,7.5,7.42,7.08,7.58,7.33,7.33,10,10,10,81.67
+889,Guatemala,jalapa,Juan Luis Alvarado Romero,Bourbon,7.5,7.67,7.33,7.33,7.33,7.33,10,10,10,81.67
+890,Mexico,tuxtla gutierrez,VIRGINIA GORDILLO GORDILLO,Typica,7.25,7.67,7.58,7.67,7.67,7.58,8.67,10,10,81.67
+891,Mexico,yajalon,JOSE LUIS MUNOZ GUERRERO,Bourbon,7.67,7.25,7.17,7.75,7.5,7.25,10,10,10,81.67
+892,Mexico,veracruz,CHRISTINA DUSING,Bourbon,7.5,7.42,7.33,7.42,7.42,7.42,10,10,10,81.67
+893,Mexico,"la concordia, chiapas",ALFREDO BOJALIL,Bourbon,7.58,7.42,7.25,7.58,7.25,7.17,10,10,10,81.67
+894,Mexico,"sacún palma, municipio de chilón, chiapas",MIGUEL CORTES MORENO,Caturra,7.75,7.58,7.25,7.17,7.58,7.33,9.33,10,10,81.67
+895,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.42,7.33,7.33,7.33,7.17,7.83,10,10,10,81.67
+896,Honduras,western region,MDH,Catimor,7.5,7.42,7.08,7.42,7.5,7.33,10,10,10,81.58
+897,Guatemala,huehuetenango,Juan Luis Alvarado Romero,Bourbon,7.42,7.42,7.08,7.5,7.42,7.33,10,10,10,81.58
+898,Taiwan,natou county,"Lin, Che-Hao Krude 林哲豪",Typica,7.42,7.42,7.25,7.67,7.33,7.25,10,10,10,81.58
+899,Costa Rica,turrialba,"CECA, S.A.",Caturra,7.58,7.42,7.5,7.17,7.08,7.58,10,10,10,81.58
+900,"Tanzania, United Republic Of","oldeani , mongola",Acacia Hills Ltd,Other,7.42,7.42,7.33,7.42,7.42,7.33,10,10,10,81.58
+901,Malawi,mzuzu,AFCA,Gesha,7.42,7.42,7.17,7.58,7.33,7.33,10,10,10,81.58
+902,Taiwan,natou county,"Lin, Che-Hao Krude 林哲豪",Typica,7.33,7.17,7.08,7.08,8.33,8.25,10,10,9.33,81.58
+903,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.42,7.42,7.33,7.33,7.5,7.25,10,10,10,81.58
+904,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.42,7.33,7.17,7.58,7.42,7.5,10,10,10,81.58
+905,Mexico,"la concordia, chiapas",FREDY GORDILLO REYES,Typica,7.67,7.5,7.42,7.5,6.75,7.42,10,10,10,81.58
+906,Mexico,la concordia,Enrique Eduardo Lopez Aguilar,Marigojipe,7.33,7.5,7.25,7.5,7.5,7.17,10,10,10,81.58
+907,Mexico,la concordia,Enrique Eduardo Lopez Aguilar,Typica,7.67,7.58,7.42,7.58,7.58,7.42,10,10,8.67,81.58
+908,Thailand,"doi chaang village, chiang rai, thialand",Doi Chaang Coffee Company,,7.08,7.33,7.58,7.58,7.17,7.5,10,10,10,81.58
+909,Thailand,,Doi Tung Development Project,,7.33,7.33,7.17,7.5,7.58,7.33,10,10,10,81.58
+910,Costa Rica,tarrazu,Benjamin Schmerler,,7.25,7.17,7.33,7.33,7.5,7.75,10,10,10,81.58
+911,Guatemala,santa rosa,Juan Luis Alvarado Romero,Bourbon,7.67,7.58,7.17,7.42,7.33,7.42,9.33,10,10,81.5
+912,Nicaragua,jalapa,"Exportadora Atlantic, S.A.",Caturra,7.5,7.42,7.33,7.33,7.25,7.33,10,10,10,81.5
+913,Honduras,comayagua,Elsy Reyes,Caturra,7.5,7.5,7.33,7.42,7.17,7.25,10,10,10,81.5
+914,Guatemala,santa rosa,Juan Luis Alvarado Romero,Bourbon,7.5,7.42,7.25,7.25,7.5,7.25,10,10,10,81.5
+915,Taiwan,古坑鄉荷包村尖山坑60號,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.5,7.42,7.33,7.08,7.58,7.25,10,10,10,81.5
+916,Myanmar,ywar ngan township,Genius Coffee,Catuai,7.25,7.42,7.25,7.5,7.33,7.33,10,10,10,81.5
+917,Costa Rica,occidental,Santa Laura Exportadora de Cafe S.L.E.C. S.A.,Caturra,7.83,7.33,7.08,7.08,7.33,7.5,10,10,10,81.5
+918,Malawi,mzuzu,AFCA,Gesha,7.67,7.42,6.92,7.5,7.5,7.17,10,10,10,81.5
+919,Guatemala,oriente,Juan Luis Alvarado Romero,Other,7.5,7.42,7.17,7.58,7.25,7.42,10,10,10,81.5
+920,Taiwan,natou county,"Lin, Che-Hao Krude 林哲豪
+",Typica,7.42,7.33,7.67,7.33,7.42,7.5,10,10,9.33,81.5
+921,Brazil,sul de minas,Jacques Pereira Carneiro,Yellow Bourbon,7.58,7.5,7.5,7.67,7.67,7.83,9.33,9.33,9.33,81.5
+922,Haiti,"dondon, haiti",Myriam Kaplan-Pasternak,Blue Mountain,7.42,7.33,7.25,7.42,7.42,7.33,10,10,10,81.5
+923,Taiwan,taichung xinshe 台中市新社區,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.5,7.42,7.25,7.25,7.33,7.33,10,10,10,81.5
+924,Mexico,"la concordia, chiapas",ALFREDO BOJALIL,Typica,7.33,7.33,7.17,7.42,7.5,7.5,10,10,10,81.5
+925,Mexico,amatenango de la frontera,ALFREDO BOJALIL,Typica,7.58,7.42,7.25,7.42,7.33,7.33,10,10,10,81.5
+926,Mexico,temaxcalapa,JOSE LUIS MUNOZ GUERRERO,Catuai,7.42,7.25,7.17,7.42,7.17,8,10,10,10,81.5
+927,Mexico,manzanillo,JOSE LUIS MUNOZ GUERRERO,Typica,7.33,7.5,7.33,7.33,7.33,7.42,10,10,10,81.5
+928,Mexico,tapachula,TOMAS EDELMANN BLASS,Bourbon,7.42,7.42,7.33,7.17,7.25,7.42,10,10,10,81.5
+929,Mexico,atoyac de alvarez,MARIA DE LA PAZ AGUILAR GUILLEN,Typica,7.5,7.5,7.25,7.5,7.42,7.58,9.33,10,10,81.5
+930,Indonesia,ijen,Specialty Coffee Association of Indonesia,Other,7.75,7.17,7.17,7.33,7.58,7.33,10,10,10,81.5
+931,Brazil,sul de minas,Jacques Pereira Carneiro,Bourbon,7.5,7.42,7.17,7.42,7.5,7.33,10,10,10,81.5
+932,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.33,7.5,7.33,7.42,7.17,7.33,10,10,10,81.5
+933,Colombia,cauca,Racafe & Cia S.C.A,,7.42,7.42,7.17,7.42,7.42,7.33,10,10,10,81.5
+934,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,,7.33,7.33,7.33,7.5,7.5,7.83,9.33,10,10,81.5
+935,Mexico,veracruz,CAFES TOMARI SA DE CV,Mundo Novo,7.58,7.33,7.08,7.33,7.5,7.33,10,10,10,81.42
+936,Guatemala,san marcos,Juan Luis Alvarado Romero,Catuai,7.42,7.33,7.08,7.58,7.33,7.25,10,10,10,81.42
+937,Brazil,cerrado,Cafebras,Catuai,7.33,7.5,7.5,7.33,6.83,7.42,10,10,10,81.42
+938,Honduras,marcala,CADEXSA,Catuai,7.5,7.33,7.17,7.25,7.5,7.42,10,10,10,81.42
+939,Taiwan,苗栗三灣,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.83,7.75,7.42,7.17,7.08,7.08,10,10,10,81.42
+940,Malawi,mzuzu,AFCA,Gesha,7.58,7.17,7.33,7.42,7.08,7.42,10,10,10,81.42
+941,Brazil,south of minas,Ipanema Coffees,Bourbon,7.25,7.5,7.42,7.17,7.33,7.33,10,10,10,81.42
+942,Guatemala,"san lucas toliman, solola",Juan Luis Alvarado Romero,Bourbon,7.42,7.5,7.17,7.42,7.42,7.42,10,10,10,81.42
+943,Mexico,siltepec el triunfo,Kurt Kappeli,Typica,7.67,7.33,7.25,7.17,7.25,7.42,10,10,10,81.42
+944,Peru,puno,Dane Loraas,,7.42,7.42,7.17,7.33,7.42,7.42,10,10,10,81.42
+945,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.42,7.33,7.25,7.42,7.42,7.5,10,10,10,81.42
+946,Mexico,"huazalingo, hidalgo",SAUL M. HERNANDEZ RAMIREZ,Caturra,7.42,7.33,7.25,7.17,7.25,7.42,10,10,10,81.42
+947,Mexico,"coatepec, coatepec",GRUPO CAFETALERO LOS BRUJOS SPR DE RL,Typica,7.42,7.42,7.25,7.25,7.5,7.33,10,10,10,81.42
+948,Colombia,huila,Exportadora de Cafe Condor S.A,Caturra,7.5,7.42,7.25,7.17,7.17,7.75,10,10,10,81.42
+949,Colombia,cauca,Exportadora de Cafe Condor S.A,,7.75,7.33,7.42,7,7.33,7.25,10,10,10,81.42
+950,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Peaberry,7.83,7,7,7.58,7.58,7.5,10,10,10,81.42
+951,Colombia,huila,Racafe & Cia S.C.A,Caturra,7.5,7.33,7.33,7.17,7.33,7.42,10,10,10,81.33
+952,Honduras,comayagua,Bismarck Castro,Caturra,7.5,7.5,7,7.17,7.5,7.33,10,10,10,81.33
+953,Mexico,veracruz,Angel Oscar Medina Rodriguez,,7.67,7.42,7,7.42,7.58,7.08,10,10,10,81.33
+954,Brazil,cerrado,Cafebras,Catuai,7.25,7.33,7.33,7.33,7.33,7.42,10,10,10,81.33
+955,Honduras,marcala,CADEXSA,Catuai,7.58,7.42,7.17,7.42,7.17,7.17,10,10,10,81.33
+956,Brazil,mantiqueira de minas,Jacques Pereira Carneiro,Yellow Bourbon,7.17,7.33,7.42,7.25,7.42,7.33,10,10,10,81.33
+957,Philippines,"davao city, region 11",Victoria,Other,7.08,7.33,7.42,7.33,7.33,7.5,10,10,10,81.33
+958,Malawi,mzuzu,AFCA,Gesha,7.75,7.33,7.08,7.33,7.33,7.25,10,10,10,81.33
+959,Honduras,san marcos,Mayra Yessenia Torres,Catuai,7.33,7.33,7.17,7.33,7.5,7.33,10,10,10,81.33
+960,Mexico,tapachula,JULIO PEREZ HERNANDEZ,Typica,7.58,7.42,7.25,7.33,7.25,7.25,10,10,10,81.33
+961,Mexico,veracruz,HECTOR GABRIEL BARREDA NADER,Typica,7.33,7.25,7.17,7.42,7.58,7.33,10,10,10,81.33
+962,Brazil,matas de minas        ,KlemOrganics,Catuai,7.5,7.58,7.5,7.5,7.75,7.83,9.33,9.33,9.33,81.33
+963,Taiwan,"dongshan dist., tainan city 台南市東山區","Lin, Che-Hao Krude 林哲豪",Typica,7.83,7.75,7.67,7.83,7.83,7.75,9.33,10,10,81.25
+964,Brazil,south of minas,Ipanema Coffees,Yellow Bourbon,7.17,7.42,7.17,7.08,6.92,8.17,10,10,10,81.25
+965,Nicaragua,jinotega,"COMERCIAL INTERNACIONAL EXPORTADORA, S.A.",Catuai,7.08,7.5,7.33,7.17,7.42,7.25,10,10,10,81.25
+966,Honduras,marcala,CADEXSA,Catuai,7.42,7.17,7.17,7.5,7.33,7.25,10,10,10,81.25
+967,Guatemala,huehuetenango,EssenceCoffee,Pacamara,7.33,7.42,7.17,7.25,7.42,7.33,10,10,10,81.25
+968,"Tanzania, United Republic Of",karatu ngorogoro,Shangrilla Estate Ltd,Other,7.33,7.17,7.17,7.5,7.25,7.42,10,10,10,81.25
+969,Taiwan,nantou,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.5,7.5,7.25,7.25,7.25,7.25,10,10,10,81.25
+970,Guatemala,"sacatepequez, guatemala",Juan Luis Alvarado Romero,Caturra,7.5,7.33,7.5,7.58,7,7.25,10,10,10,81.25
+971,Mexico,motozintla,ALFREDO BOJALIL,Typica,7.42,7.42,7.33,7.33,7.5,7.42,9.33,10,10,81.25
+972,Nicaragua,"dipilto, nueva segovia","Exportadora Atlantic, S.A.",,7.33,7.5,7.17,7.17,7.58,7.17,10,10,10,81.17
+973,"Tanzania, United Republic Of","ruvuma, mbinga",Immaculata John,Bourbon,7.67,7.17,7.17,7.33,7.5,7.17,10,10,10,81.17
+974,Mexico,"chiapas, jaltenango",ANDREAS KUSSMAUL,Caturra,7.75,7.58,7.08,7.25,7.08,7.25,10,10,10,81.17
+975,Costa Rica,tres rios,"CAFETALERA INTERNACIONAL CAFINTER, S.A.",Caturra,7.5,7.5,7.33,7.17,7.08,7.17,10,10,10,81.17
+976,Honduras,central region,,Catuai,7.42,7.33,7,7.42,7.33,7.33,10,10,10,81.17
+977,Thailand,chiangrai,松澤宏樹 Koju Matsuzawa,Caturra,6.83,7.42,7.42,7.17,7.5,7.42,10,10,10,81.17
+978,Philippines,corillera administrative,Victoria,Typica,7.25,7.25,7.25,7.08,7.58,7.5,10,10,10,81.17
+979,"Tanzania, United Republic Of",mbinga,Taylor Winch (T) Ltd,Bourbon,7.58,7.17,7.17,7.33,7.33,7.25,10,10,10,81.17
+980,Malawi,southern- zomba,AFCA,Caturra,7.58,7.25,7.33,7.08,7.33,7.33,10,10,10,81.17
+981,Costa Rica,central valley,Eric Thormaehlen,Catuai,7.33,7.08,7.33,7.25,7.33,7.58,10,10,10,81.17
+982,Brazil,monte carmelo,BOURBON SPECIALTY COFFEES,Catuai,7.42,7.42,7.17,7.42,7.33,7.25,10,10,10,81.17
+983,Mexico,tapachula,JULIO PEREZ HERNANDEZ,Typica,7.42,7.25,7.08,7.75,7.42,7.17,10,10,10,81.17
+984,Guatemala,oriente,The Coffee Source Inc.,Caturra,7.42,7.25,7.33,7.25,7.25,7.42,10,10,10,81.17
+985,Brazil,south of minas,NUCOFFEE,Mundo Novo,7.42,7.33,7.25,7.42,7.5,7.17,10,10,10,81.17
+986,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,,7.25,7.75,7.67,7.67,7.42,7.67,8.67,9.33,10,81.17
+987,Ethiopia,sidamo,KERCHANSHE,,7.42,7.33,7.17,7.33,7.42,7.17,10,10,10,81.08
+988,Brazil,alta paulista (sao paulo),Gregorio Sebba,Mundo Novo,7.58,7.42,7.5,7.25,7.75,7.58,9.33,10,9.33,81.08
+989,Nicaragua,jinotega,Rolando Lacayo,Other,7.33,7.33,7.33,7.42,7.33,7.33,10,10,10,81.08
+990,United States,central america,Wali Ali,Pache Comun,7.42,7.17,7.33,7.42,7.25,7.33,10,10,10,81.08
+991,"Tanzania, United Republic Of","iwala village, mbeya rural",Taylor Winch (T) Ltd,Other,7.42,7.33,7.33,7.25,7.25,7.33,10,10,10,81.08
+992,Costa Rica,naranjo,The Coffee Source Inc.,Caturra,7.42,7.25,7.17,7.25,7.25,7.58,10,10,10,81.08
+993,United States (Puerto Rico),yauco region,German Negron,Other,7.67,7.75,7.67,7.58,7.58,7.67,6.67,10,10,81.08
+994,Mexico,san fernando,OBED RENDON PONCE,Typica,7.25,7.42,7.33,7.33,7.17,7.33,10,10,10,81.08
+995,Mexico,santo reyes nopala,DIEGO MANUEL WOOLRICH RAMIREZ,Typica,7.33,7.25,7.33,7.42,7.25,7.42,10,10,10,81.08
+996,Mexico,santa maria sitepec,GERARDO HERNANDEZ VALDERRABANO,Typica,7.33,7.33,7.25,7.42,7.25,7.25,10,10,10,81.08
+997,Mexico,talpa de allende,BALBINO RAMIREZ FLORES,Typica,7.42,7.33,7.25,7.42,7.17,7.25,10,10,10,81.08
+998,United States (Hawaii),,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.42,7.42,7.25,7.58,6.92,7.17,10,10,10,81.08
+999,Brazil,grama valley,BOURBON SPECIALTY COFFEES,Bourbon,7.25,7.25,7.17,7.5,7.33,7.17,10,10,10,81
+1000,El Salvador,apaneca,Consejo Salvadoreño del Café,Bourbon,7.42,7.08,7.08,7.33,7.25,7.58,10,10,10,81
+1001,Brazil,grama valley,BOURBON SPECIALTY COFFEES,Yellow Bourbon,7.33,7.17,7.17,7.67,7.33,7.17,10,10,10,81
+1002,Guatemala,norte,Juan Luis Alvarado Romero,Bourbon,7.42,7.25,7.17,7.5,7.25,7.17,10,10,10,81
+1003,Colombia,guayata,Racafe & Cia S.C.A,Caturra,7.67,7.5,7.42,5.25,7.67,7.75,10,10,10,81
+1004,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.5,7.25,7,7.25,7.5,7.25,10,10,10,81
+1005,Taiwan,"dongshan dist., tainan city 臺南市東山區","Lin, Che-Hao Krude 林哲豪",Typica,7.25,7.17,7.17,7.25,7.5,7.33,10,10,10,81
+1006,Honduras,san marcos,Mayra Yessenia Torres,Caturra,7.42,7.25,7.25,7.33,7.25,7.17,10,10,10,81
+1007,Brazil,cerrado,BOURBON SPECIALTY COFFEES,Mundo Novo,7.67,7.75,7.83,7.75,7.83,7.75,10,6.67,10,81
+1008,"Tanzania, United Republic Of",arusha,Mlimani Ngarashi,Other,7.33,7.33,7.08,7.42,7.17,7.33,10,10,10,81
+1009,Uganda,eastern,Kyagalanyi Ltd,SL14,7.33,6.92,7.17,7.33,7.42,7.42,10,10,10,81
+1010,Taiwan,nantou,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.5,6.92,7.33,7.33,7.33,7.33,10,10,10,81
+1011,Thailand,thailand,Doi Tung Development Project,,7.33,7.42,7.25,7.42,7.25,7.17,10,10,10,81
+1012,Mexico,"motozintla, chiapas",ALEJANDRO GARCIA PALACIOS,Other,7.08,7.33,7.33,7.33,7.42,7.25,10,10,10,81
+1013,Mexico,adolfo lopez mateos,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,Typica,7.58,7.67,7.5,7.67,7.58,7.5,8,10,10,81
+1014,Taiwan,taiwan,CQI Taiwan ICP CQI台灣合作夥伴,Other,7.33,7.17,7.25,7.33,7.33,7.25,10,10,10,80.92
+1015,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.67,7.67,7.33,7.58,7.67,7.5,9.33,9.33,9.33,80.92
+1016,Kenya,kiambu,Lydiah Mwangi,SL28,7.17,7.58,7.5,7.5,8,7.75,10,10,10,80.92
+1017,Mexico,veracruz,Grupo Santab S.A de C.V.,Bourbon,7.5,7.33,7.17,7.42,7.5,7.33,9.33,10,10,80.92
+1018,Myanmar,pyinoolwin,Min Hlaing,Other,7.17,7.42,7,7.58,7.33,7,10,10,10,80.92
+1019,United States (Hawaii),kona,Eileen Koyanagi,Hawaiian Kona,7.42,7.08,7.17,7.17,7.58,7.25,10,10,10,80.92
+1020,"Tanzania, United Republic Of","manyara, karatu",Karatu Estate,Other,7.33,7.17,7.17,7.25,7.42,7.33,10,10,10,80.92
+1021,Brazil,mantiqueira de minas,Jacques Pereira Carneiro,Yellow Bourbon,7.25,7.33,7.25,7.25,7.25,7.33,10,10,10,80.92
+1022,Taiwan,台中新社,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.92,7.67,7.33,7.08,7.08,7.08,10,10,10,80.92
+1023,Brazil,south of minas,Ipanema Coffees,Bourbon,7.17,7.42,7.17,7.25,7.25,7.33,10,10,10,80.92
+1024,Nicaragua,matagalpa,Chris Finch,Caturra,7.33,7.08,7.25,7,7.5,7.42,10,10,10,80.92
+1025,Guatemala,jalapa,Juan Luis Alvarado Romero,Pacas,7.58,7.42,6.92,7.5,7.25,7.17,10,10,10,80.92
+1026,Taiwan,taichung taiping 台中市太平區,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.42,7.25,7.25,7.25,7.25,7.25,10,10,10,80.92
+1027,Taiwan,nantou,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.25,7.17,7.08,7.08,7.08,8.08,10,10,10,80.92
+1028,Taiwan,new taipei zhonghe 新北市中和區,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.42,7.25,7.25,7.25,7.25,7.25,10,10,10,80.92
+1029,Mexico,ixhuatlan del cafe,EDUARDO LUIS AUGUSTO VELAZQUEZ SOLIS,Typica,7.58,7.33,7.08,7.5,7.17,7.25,10,10,10,80.92
+1030,Thailand,,Doi Tung Development Project,Peaberry,7.67,7.58,7.33,7.33,7.17,7,10,10,10,80.92
+1031,Laos,"paksong,laos",CQI Taiwan ICP CQI台灣合作夥伴,Catimor,7.42,7.33,7.17,7.17,7.17,7.25,10,10,10,80.83
+1032,Guatemala,orient,The Coffee Source Inc.,Caturra,7.67,7.25,7.08,7.33,7.17,7.25,10,10,10,80.83
+1033,Mexico,motozintla,LUIS ROBERTO FERMOSO BELTRAN,Catuai,7.17,7.08,7.25,7.42,7.25,7.33,10,10,10,80.83
+1034,Mexico,oaxaca,JOSE MANUEL VERGARA CORTES,Typica,7.33,7.25,7.33,7.33,7.25,7.17,10,10,10,80.83
+1035,Mexico,veracruz,CHRISTINA DUSING,Bourbon,7.5,7.17,7.33,7.25,7.17,7.17,10,10,10,80.83
+1036,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.42,7.33,7,7.25,7.33,7.5,10,10,10,80.83
+1037,Colombia,huila,Exportadora de Cafe Condor S.A,,7.33,7.33,7,6.83,7.33,7.67,10,10,10,80.83
+1038,Brazil,monte carmelo,BOURBON SPECIALTY COFFEES,,7.17,7.25,7.08,7.17,7.25,7.58,10,10,10,80.75
+1039,Myanmar,ywar ngan,U Soe,Catuai,6.92,7.5,7,7.58,7.5,7.08,10,10,10,80.75
+1040,Guatemala,huehuetenango,Juan Luis Alvarado Romero,Caturra,7.5,7.33,7,7.42,7.17,7.17,10,10,10,80.75
+1041,Nicaragua,jinotega,"COMERCIAL INTERNACIONAL EXPORTADORA, S.A.",Other,7.25,7.25,7.17,7.25,7.33,7.25,10,10,10,80.75
+1042,Honduras,"siguatepeque, comayagua",Bismarck Castro,Caturra,7.5,7.33,7,7.42,7.25,7.17,10,10,10,80.75
+1043,Panama,boquete,EssenceCoffee,Caturra,7.25,7.33,7.17,7.33,7.33,7.17,10,10,10,80.75
+1044,Honduras,marcala,CADEXSA,Catuai,7.42,7.17,7.08,7.42,7.25,7.25,10,10,10,80.75
+1045,Honduras,central region,,Catuai,7.25,7.33,7.08,7.5,7.25,7.33,10,10,10,80.75
+1046,Costa Rica,san ramon,The Coffee Source Inc.,Caturra,7.33,7.33,7.25,7.25,7.17,7.17,10,10,10,80.75
+1047,Mexico,oaxaca,DIEGO MANUEL WOOLRICH RAMIREZ,Typica,7.58,7.33,7.42,7.25,7.5,7.5,9.33,9.33,10,80.75
+1048,Haiti,haiti,Myriam Kaplan-Pasternak,Typica,7.42,7,7.42,7.25,7.08,7.33,10,10,10,80.75
+1049,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Arusha,7.08,7.33,7.17,7.25,7.33,7.67,10,10,10,80.75
+1050,Taiwan,taiwan,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.33,7.08,7.08,7.08,7.42,7.33,10,10,10,80.67
+1051,Indonesia,sumatra brastagi,Aulia Arif Syahri,Mandheling,7.58,7.42,7,7.67,7.5,7.5,9.33,9.33,10,80.67
+1052,Guatemala,antigua,Juan Luis Alvarado Romero,Bourbon,7.67,7.42,6.83,7.17,7.42,7.17,10,10,10,80.67
+1053,Costa Rica,tarrazu,"CECA, S.A.",Caturra,7.83,7.5,7.67,7.67,7.83,7.5,6.67,10,10,80.67
+1054,Malawi,southern- zomba,AFCA,Caturra,7.5,7.25,7.17,7.17,7.25,7.17,10,10,10,80.67
+1055,Mexico,"el desmoronado, talpan de allende jalisco",CAFE DE DON BALBINO S.C. DE R.L. DE C.V.,Typica,7.25,7.17,7.17,7.25,7.17,7.42,10,10,10,80.67
+1056,Colombia,santander,Compañia Colombiana Agroindustrial S.A,Caturra,7.67,7.5,7.42,7.67,7.5,7.75,10,10,6.67,80.67
+1057,Guatemala,"san lucas toliman, solola",Juan Luis Alvarado Romero,Bourbon,7.67,7.17,7,7.5,7,7,10,10,10,80.67
+1058,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7,7.33,7.5,7.33,7,7.33,10,10,10,80.67
+1059,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7,7.5,7.33,7.17,7.17,7.17,10,10,10,80.67
+1060,Colombia,,Racafe & Cia S.C.A,,7.17,7.25,7.08,7.42,7.08,7.42,10,10,10,80.67
+1061,Brazil,monte carmelo,BOURBON SPECIALTY COFFEES,,7.33,7.25,7.33,7.08,7.58,7.25,9.33,10,10,80.58
+1062,Nicaragua,nueva segovia,"Exportadora Atlantic, S.A.",,7.08,7.5,7,7.25,7.42,7,10,10,10,80.58
+1063,"Tanzania, United Republic Of",arusha,Burka Coffee Estate,Other,7.25,7.08,7.08,7.33,7.33,7.25,10,10,10,80.58
+1064,Brazil,south of minas,Ipanema Coffees,Bourbon,7.42,7.25,7.33,7,7.08,7.25,10,10,10,80.58
+1065,Honduras,occidental,Beneficio Santa Rosa,Caturra,7.5,7.17,7,7.42,7.33,7,10,10,10,80.58
+1066,Guatemala,huehuetenango,Juan Luis Alvarado Romero,Bourbon,7.17,7.42,6.83,7.5,7.17,7.25,10,10,10,80.58
+1067,United States (Hawaii),,Kona Pacific Farmers Cooperative,,7.42,7.58,7.5,7.92,7.83,7.83,8.67,8.67,9.33,80.58
+1068,Colombia,,Racafe & Cia S.C.A,,7.08,7.25,7,7.5,7.08,7.33,10,10,10,80.58
+1069,Taiwan,taiwan,CQI Taiwan ICP CQI台灣合作夥伴,Other,7.17,7.17,7.17,7.42,7.17,7.25,10,10,10,80.5
+1070,Guatemala,santa rosa,Juan Luis Alvarado Romero,Caturra,7.33,7.25,7.08,7.17,7.25,7.17,10,10,10,80.5
+1071,Honduras,ocotepeque,Janny Marlith Torres,Catuai,7.58,7.33,7,7.17,7.33,7.08,10,10,10,80.5
+1072,Mauritius,chamarel (south west),Case Noyale Ltd,,7.25,7.25,7.17,7.17,7.25,7.17,10,10,10,80.5
+1073,Brazil,vale da grama,BOURBON SPECIALTY COFFEES,Yellow Bourbon,7.25,7.33,7.17,7.5,7.33,7.25,9.33,10,10,80.5
+1074,Myanmar,pyin oo lwin,Shwe Yin Mar Coffee,Other,7.17,7.33,7.17,7.42,7.25,7.08,10,10,10,80.5
+1075,Guatemala,oriente,Juan Luis Alvarado Romero,Other,7.5,7.17,6.83,7.5,7.17,7.17,10,10,10,80.5
+1076,Brazil,mantiqueira de minas,Jacques Pereira Carneiro,Yellow Bourbon,7.42,7.42,7.08,7.33,7.67,7.5,9.33,9.33,10,80.5
+1077,United States (Hawaii),kona,Eileen Koyanagi,Hawaiian Kona,7.42,7.33,7.33,7.58,7.58,7.42,8.67,10,10,80.5
+1078,Guatemala,huehuetenango,Juan Luis Alvarado Romero,Bourbon,7.5,7.5,7,7.67,7.17,7,10,10,10,80.5
+1079,Mexico,zaragoza itundujia,ISRAEL EDUARDO PAZ GARCIA,Typica,7.25,7.25,7.08,7.33,7.25,7.17,10,10,10,80.5
+1080,Honduras,marcala,CADEXSA,,7.25,7.42,7,7.42,7.33,7,10,10,10,80.42
+1081,Taiwan,南投國姓,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.58,7.17,7.17,7.17,7.17,7.17,10,10,10,80.42
+1082,El Salvador,"department of ahuachapan, municipality of apanecallamatepec mountain",LUSSO LAB,Bourbon,7.33,7.17,7.08,7.08,7.33,7.17,10,10,10,80.42
+1083,China,yunnan,Adam Ciruli Ye,Other,7.25,7.08,7.25,7.17,7.33,7.17,10,10,10,80.42
+1084,Taiwan,nantou,"CQI Taiwan ICP CQI台灣合作夥伴
+",Typica,7.25,7.25,7.17,7.25,7.25,7.25,10,10,10,80.42
+1085,Mexico,pochutla,ALFREDO BOJALIL,Typica,6.92,7.17,7.08,7.5,7.33,7.17,10,10,10,80.42
+1086,Mexico,la concordia,ARMANDO LUIS POHLENZ MARTINEZ,Caturra,7.42,7.08,7.08,7.33,7.25,7.17,10,10,10,80.42
+1087,Burundi,mumirwa,SIMON MAHINDA,,7.08,7.25,7.17,7.33,7.08,7.08,10,10,10,80.33
+1088,"Tanzania, United Republic Of",mkuu rombo,Delfina Leon Shine,Bourbon,7.25,7.17,7,7.25,7.42,7.08,10,10,10,80.33
+1089,"Tanzania, United Republic Of",arusha,Kongoni Estate,Other,7.25,7.17,7.25,7.25,7.25,7.08,10,10,10,80.33
+1090,Taiwan,taichung xinshe 台中市新社區,CQI Taiwan ICP CQI台灣合作夥伴,Yellow Bourbon,7.25,7.25,7.08,7.25,7.25,7.25,10,10,10,80.33
+1091,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.33,7.33,6.83,7.5,7,7.17,10,10,10,80.33
+1092,Mexico,chilón,MIGUEL CORTES MORENO,Typica,7.25,7.08,7.08,7.33,7.33,7.17,10,10,10,80.33
+1093,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.17,7.5,6.92,7.33,7.67,7.33,9.33,10,10,80.33
+1094,Ethiopia,kelem welega,Ethiopia Commodity Exchange,,7.25,7.25,7.25,7.33,7.5,8,9.33,9.33,10,80.33
+1095,Brazil,cerrado - monte carmelo - minas gerais,Volcafe Ltda. - Brasil,Catuai,7.17,7.33,7.42,7.08,7,7,10,10,10,80.25
+1096,Honduras,comayagua,Bismarck Castro,Caturra,7.25,7.25,7,7,7.42,7,10,10,10,80.25
+1097,Mexico,sierra madre occidental,CAFE DE DON BALBINO S.C. DE R.L. DE C.V.,Caturra,7.25,7.17,7,7.33,7.33,7,10,10,10,80.25
+1098,Myanmar,"yauk sauk, shan state",Bob McCauley,Other,8,7.08,7,7.33,7.08,6.92,10,10,10,80.25
+1099,Myanmar,ywar ngan,U Htun Htun,Catuai,7.42,7,7.08,7,7.17,7.33,10,10,10,80.25
+1100,Nicaragua,matagalpa,Gloria Antonieta Escobar Urrutia,Caturra,7.08,6.92,7,7.25,7.5,7.25,10,10,10,80.25
+1101,United States (Hawaii),kona,Eileen Koyanagi,Hawaiian Kona,7.5,7.08,7.67,7.67,7.42,7.58,9.33,9.33,9.33,80.25
+1102,Colombia,,Honor dela Fuente,Typica,7.42,8,7.83,7.75,8.08,7.58,8.67,8.67,8.67,80.25
+1103,Taiwan,chiayi fanlu嘉義縣番路鄉,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.25,7.08,7.25,7.25,7.17,7.25,10,10,10,80.25
+1104,Guatemala,oriente,The Coffee Source Inc.,Caturra,7,7.17,7.33,7.33,7,7.17,10,10,10,80.25
+1105,Mexico,"calnali, hidalgo",SAUL M. HERNANDEZ RAMIREZ,Caturra,7.58,7.33,7.17,7.25,6.75,7,10,10,10,80.25
+1106,Vietnam,dala,"Sunvirtue Co., Ltd.",Catimor,7.42,7.25,7.25,7.58,7.42,7.33,8.67,10,10,80.17
+1107,Nicaragua,jinotega,"Exportadora Atlantic, S.A.",Caturra,7.17,7.08,7.08,7.33,7.25,7.08,10,10,10,80.17
+1108,Honduras,marcala,CADEXSA,Catuai,7.25,7.25,7,7.17,7.08,7.08,10,10,10,80.17
+1109,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.33,7.33,7,7.17,7.17,7.17,10,10,10,80.17
+1110,Mexico,coatepec,PABLO ENRIQUE MARTINEZ GAMA,Typica,7.33,7.08,6.92,7.42,7.25,7.08,10,10,10,80.17
+1111,Mexico,zaragoza itundujia,ISRAEL EDUARDO PAZ GARCIA,Typica,7.58,7.42,7.33,7.5,7.08,7.17,8.67,10,10,80.17
+1112,Mexico,veracruz,MARCO VIRGILIO RAMIREZ TELIZ,Bourbon,7.33,7.33,7.17,7.08,7.25,7,10,10,10,80.17
+1113,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.33,7.33,7,7.33,7,7,10,10,10,80.17
+1114,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,,7.58,7.5,7.33,7.33,7.67,7.33,9.33,9.33,9.33,80.17
+1115,Brazil,mantiqueira de minas,Brayan Cunha Souza,Bourbon,7.17,7.17,7,7.17,7.25,7.25,10,10,10,80.08
+1116,Taiwan,苗栗泰安,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.42,7.25,7.25,7.17,7,7,10,10,10,80.08
+1117,Nicaragua,,Honor dela Fuente,,7.25,7.17,6.92,7.25,7.17,7.25,10,10,10,80.08
+1118,Taiwan,yunlin gukeng he bao 雲林縣古坑鄉荷苞村,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.25,7.25,7.25,7.25,7.08,7,10,10,10,80.08
+1119,Taiwan,changhua baguashan 彰化市八卦山,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.25,7.25,7.25,7,7.25,7.08,10,10,10,80.08
+1120,Taiwan,changhua baguashan 彰化市八卦山,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.25,7.25,7.25,7.08,7.17,7.08,10,10,10,80.08
+1121,Mexico,zaragoza itundujia,ISRAEL EDUARDO PAZ GARCIA,Typica,7.33,7.17,7.25,7.08,7.08,7.08,10,10,10,80.08
+1122,Mexico,escuitla,FEDERICO PACHECO PEREZ,Typica,7.25,7.08,7,7.17,7.33,7.17,10,10,10,80.08
+1123,Nicaragua,jinotega,"COMERCIAL INTERNACIONAL EXPORTADORA, S.A.",Caturra,7.33,7.08,6.92,7.08,7.42,7.17,10,10,10,80
+1124,Myanmar,"doe kwin, pyin oo lwin",Ngu Shwe Li,Other,7.17,7.33,7,7.42,7.17,7,10,10,10,80
+1125,Mexico,"sierra fraylesca, chiapas",Kurt Kappeli,Typica,7.58,7.75,7.42,7.5,7.5,7.5,8.67,8.67,10,80
+1126,Taiwan,changhua baguashan 彰化市八卦山,CQI Taiwan ICP CQI台灣合作夥伴,Typica,7.25,7.25,7.25,7,7.25,7,10,10,10,80
+1127,Thailand,thailand,Doi Tung Development Project,,7.33,6.67,7.08,7.42,7.42,7.08,10,10,10,80
+1128,Mexico,coatepec,PABLO ENRIQUE MARTINEZ GAMA,Typica,7.25,7.25,7.08,7.17,7.33,7.33,9.33,10,10,80
+1129,Mexico,san miguel del puerto,SEMIRAMIS CASAS VELAZQUEZ,Other,7.08,7.33,7,7.33,7.08,7,10,10,10,80
+1130,Ethiopia,limu,Ethiopia Commodity Exchange,,7.42,7.42,7.5,7.92,7.75,7.58,8.67,9.33,8.67,80
+1131,Colombia,huila,Federacion Nacional de Cafeteros,,7.83,7.67,7.58,7.75,7.83,7.17,6.67,10,10,79.92
+1132,United States (Hawaii),kona,Eileen Koyanagi,Hawaiian Kona,7.5,7,7,6.92,7.33,7.17,10,10,10,79.92
+1133,Mexico,chiapas,CALIXTO GUILLEN VAZQUEZ,Bourbon,7.33,7.08,7.08,7.33,7.42,7.17,9.33,10,10,79.92
+1134,Mexico,"motozintla, chiapas",ALEJANDRO GARCIA PALACIOS,Other,7.17,7.17,6.92,7.25,7.33,7.08,10,10,10,79.92
+1135,Mexico,veracruz,CHRISTINA DUSING,Bourbon,7.5,7.17,7,7.17,7.25,7.08,10,10,10,79.92
+1136,Mexico,jaltenango,MONTEGRANDE,Catuai,7.17,7.08,7.08,7.08,7.5,7.33,9.33,10,10,79.92
+1137,Mexico,coatepec,PABLO ENRIQUE MARTINEZ GAMA,Typica,7.33,7.25,7,7.42,7.17,7.17,9.33,10,10,79.92
+1138,Mexico,veracruz,JESUS CARLOS CADENA VALDIVIA,Mundo Novo,7.17,7.33,7.08,7.58,7.33,7.08,10,9.33,10,79.92
+1139,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,,7.5,7.42,7.58,7.42,7.5,7.58,8.67,8.67,10,79.92
+1140,Kenya,kiambu,Kennedy Macharia,SL34,7,7.08,7,7.17,7.25,7.25,10,10,10,79.83
+1141,Guatemala,san marcos,Juan Luis Alvarado Romero,Bourbon,7.33,7.25,6.92,7.33,7.25,7.33,9.33,10,10,79.83
+1142,Nicaragua,jinotega,Asociación Aldea Global Jinotega,Caturra,6.83,7.17,7.17,6.92,7.5,7.08,10,10,10,79.83
+1143,Mexico,veracruz,SERGIO DE LA VEQUIA BERNARDI,Typica,7.17,7.08,7,7.25,7.5,7,10,10,10,79.83
+1144,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.58,7.08,6.83,7.17,7.5,7.17,9.33,10,10,79.83
+1145,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.5,7.42,7.25,7.58,7.33,7.42,9.33,9.33,9.33,79.75
+1146,Taiwan,"taiwu township , pingtung county 屏東縣泰武鄉","Lin, Che-Hao Krude 林哲豪",Typica,7.75,7.33,7.17,7.33,7.67,7.83,9.33,9.33,8.67,79.75
+1147,Taiwan,"baihe dist., tainan city 臺南市白河區","Lin, Che-Hao Krude 林哲豪",Typica,7.08,7.08,7.25,7,7.17,7.17,10,10,10,79.75
+1148,Thailand,thailand,Doi Tung Development Project,,7.25,7.08,6.92,7.5,7.08,6.92,10,10,10,79.75
+1149,Peru,huanuco,Dane Loraas,,7,7.08,7,7.25,7.5,7.42,9.33,10,10,79.75
+1150,Costa Rica,brunca,The Coffee Source Inc.,Catuai,7.58,7.5,7.67,7.75,7.67,7.58,8,8,10,79.75
+1151,Mexico,"la concordia, chiapas",FREDY GORDILLO REYES,Typica,7.58,7.08,7,7,7.5,6.92,10,10,10,79.75
+1152,Mexico,chiapas,LEONIDES DE LA CRUZ LOPEZ,Bourbon,7.58,7.08,6.92,7.58,7.5,6.92,10,9.33,10,79.75
+1153,Mexico,chiapas,CALIXTO GUILLEN VAZQUEZ,Bourbon,7.25,7.08,7,7.17,7.17,7.08,10,10,10,79.75
+1154,Mexico,zaragoza itundujia,ISRAEL EDUARDO PAZ GARCIA,Bourbon,7.25,7.17,7.17,7.08,7.17,7,10,10,10,79.75
+1155,Mexico,pochutla,ALFREDO BOJALIL,Typica,7.33,7.25,7,7.08,7.08,7,10,10,10,79.75
+1156,Guatemala,antigua,LUSSO LAB,Bourbon,7.58,7.33,7.5,7.33,7,7.33,9.33,9.33,9.33,79.75
+1157,Mexico,tuxtla gutierrez,MONTEGRANDE,Typica,7.25,6.83,6.92,7.08,7.25,7.08,10,10,10,79.75
+1158,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.42,7.42,7.25,7.58,7.42,7.33,9.33,9.33,9.33,79.67
+1159,El Salvador,cacahuatique,Consejo Salvadoreño del Café,Bourbon,7.25,7.08,7,6.83,7.33,7.17,10,10,10,79.67
+1160,Thailand,thailand,Doi Tung Development Project,,6.92,7.17,6.83,7.42,7.17,7.08,10,10,10,79.67
+1161,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.5,7,6.83,7.08,7.08,7.17,10,10,10,79.67
+1162,Mexico,"la concordia, chiapas",FREDY GORDILLO REYES,Typica,7.42,7.25,6.83,7.58,7.17,6.58,10,10,10,79.67
+1163,Mexico,"tenango de doria, hidalgo",SAUL M. HERNANDEZ RAMIREZ,Caturra,7.33,7.17,7,6.75,7.08,7,10,10,10,79.67
+1164,Mexico,"coatepec, coatepec",ALFREDO BOJALIL,Mundo Novo,6.92,7.17,7.17,7.17,7.08,7.08,10,10,10,79.67
+1165,Thailand,,Doi Tung Development Project,Peaberry,7.17,7.17,7,7,7.25,6.92,10,10,10,79.67
+1166,Mexico,tepetzingo,OBED RENDON PONCE,Typica,7.08,7,6.92,7.33,7.25,7.08,10,10,10,79.58
+1167,Mexico,la concordia,ARMANDO LUIS POHLENZ MARTINEZ,Caturra,7.25,6.92,6.92,7.33,7.25,7,10,10,10,79.58
+1168,Colombia,huila,Exportadora de Cafe Condor S.A,,7.25,7.17,7,6.75,7.17,7.33,10,10,10,79.58
+1169,Guatemala,"chuva, san marcos",Carl Walker,,7.08,7,6.83,7.33,7.25,7,10,10,10,79.58
+1170,Nicaragua,jinotega,COOPERATIVA EL GORRION R.L,Caturra,6.92,6.92,7,7.42,7.25,7,10,10,10,79.5
+1171,Taiwan,nantou,CQI Taiwan ICP CQI台灣合作夥伴,Typica,6.92,7,7.17,7,7.42,7,10,10,10,79.5
+1172,Colombia,cundinamarca,Exportadora de Cafe Condor S.A,Caturra,7.83,7.5,7.42,7.42,7.67,7.5,10,6.67,10,79.5
+1173,Mexico,la concordia,ARMANDO LUIS POHLENZ MARTINEZ,Caturra,7.25,7.08,6.92,7.25,7.58,7.08,9.33,10,10,79.5
+1174,Mexico,"coatepec, coatepec",MARIO JOSE FERNANDEZ,Typica,7.25,7.33,7,7.25,7.17,7.17,9.33,10,10,79.5
+1175,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.08,7.33,7.25,7.58,7.33,7.42,9.33,9.33,9.33,79.42
+1176,Guatemala,oriente,Juan Luis Alvarado Romero,Other,7.25,7.33,6.83,7,7,7.17,10,10,10,79.42
+1177,Mexico,xicotepec de juarez,ADRIANA TORRES RICO QUEVEDO,Typica,7,6.83,6.83,7.42,7.33,7.17,10,10,10,79.42
+1178,Cote d?Ivoire,cnra station of divo,Rre Kunene,,7.42,7.25,6.83,7,7.33,7.08,9.33,10,10,79.33
+1179,Colombia,pereira,The Coffee Source Inc.,Caturra,7.42,7.25,6.75,7.25,7.42,7.25,9.33,9.33,10,79.33
+1180,Mexico,zentla,ERIC JESUS CORDOBA ARROYO,Typica,7,7,6.83,7.33,7.42,6.92,10,10,10,79.33
+1181,Mexico,zentla,ERIC JESUS CORDOBA ARROYO,Typica,7.42,7.17,7.08,7.17,7.08,7.08,9.33,10,10,79.33
+1182,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.17,6.5,6.33,7.25,7.58,7.33,10,10,10,79.33
+1183,Taiwan,natou county,"Lin, Che-Hao Krude 林哲豪",Typica,7.08,6.83,6.83,7.25,7.42,7.08,10,10,10,79.25
+1184,Mexico,veracruz,MARCO VIRGILIO RAMIREZ TELIZ,Bourbon,7,7,6.92,7.17,7.17,7.08,10,10,10,79.25
+1185,Guatemala,santa rosa,Juan Luis Alvarado Romero,Bourbon,7.33,7.42,7.33,7.42,7.5,7.42,8.67,9.33,9.33,79.17
+1186,Honduras,ocotepeque,Janny Marlith Torres,Catuai,7.58,7,6.75,6.92,7,6.92,10,10,10,79.17
+1187,Guatemala,occidente,Juan Luis Alvarado Romero,Bourbon,7.08,7,6.92,7.42,7,6.92,10,10,10,79.17
+1188,Guatemala,nuevo oriente,Juan Luis Alvarado Romero,Catuai,7.25,7.17,6.75,7.25,7,6.92,10,10,10,79.17
+1189,Costa Rica,san rafael,Brent Hall,Catuai,7.17,7.42,7.5,8,7.25,7.83,10,10,6.67,79.17
+1190,Mexico,zaragoza itundujia,ISRAEL EDUARDO PAZ GARCIA,Typica,7.25,7.08,6.92,7.08,7.17,7.17,9.33,10,10,79.17
+1191,Mexico,yajalon,JULIO CESAR ROBLES FLORES,Typica,7.17,6.92,6.92,7.08,7.17,7,10,10,10,79.17
+1192,Mexico,"pluma hidalogo, oaxaca",Masamichi Hiroike,Typica,6.75,6.75,6.83,7.25,7.58,7.08,10,10,10,79.17
+1193,Guatemala,san marcos,Juan Luis Alvarado Romero,Bourbon,7.58,7.67,7.42,7.42,7.67,7.67,8.67,8.67,8.67,79.08
+1194,United States (Puerto Rico),yauco region,German Negron,Other,7.42,7.08,6.75,7.33,7.33,6.92,10,9.33,10,79.08
+1195,Mexico,zaragoza itundujia,ISRAEL EDUARDO PAZ GARCIA,Typica,7.33,7,6.92,7.25,7.33,7.08,9.33,10,10,79.08
+1196,Mexico,tlacuilotepec,JUANA RODRIGUEZ GUTIERREZ,Mundo Novo,7.25,7.08,6.75,7.33,7.42,7,9.33,10,10,79.08
+1197,Mexico,talpa de allende,BALBINO RAMIREZ FLORES,Typica,7.17,7.25,7.25,7.17,7.25,7.08,9.33,9.33,10,79.08
+1198,,,Racafe & Cia S.C.A,,6.75,6.75,6.42,6.83,7.58,7.5,10,10,10,79.08
+1199,Guatemala,oriente,Juan Luis Alvarado Romero,Other,7.33,7.17,6.58,7.42,7.08,6.83,10,10,10,79
+1200,Honduras,intibuca,CAFES FINOS DE EXPORTACION S DE R.L.,Pacas,7,7,7,7,7,7,10,10,10,79
+1201,Peru,san ignacio,Sustainable Harvest Coffee,Typica,7.67,7.17,7.08,7.25,8,7.5,8.67,9.33,9.33,79
+1202,Mexico,"iliatenco, guerrero",GONZALO DE AQUINO FLORES,Mundo Novo,6.75,7.08,6.67,7.25,7.17,7.08,10,10,10,79
+1203,Mexico,zaragoza itundujia,ISRAEL EDUARDO PAZ GARCIA,Typica,7.5,7.17,6.92,7.5,7.25,7,8.67,10,10,79
+1204,Mexico,amatenango de la frontera,JUAN AVENAMAR RODRIGUEZ FUNEZ,Typica,7.17,6.83,6.83,7.25,7.17,6.92,10,10,10,79
+1205,Mexico,"la concordia, chiapas",ALFREDO BOJALIL,Typica,7.33,7,6.75,7.08,7.17,7.25,9.33,10,10,78.92
+1206,Mexico,zaragoza itundujia,ISRAEL EDUARDO PAZ GARCIA,Typica,7.5,7,6.92,7.08,6.92,6.75,10,10,10,78.92
+1207,Nicaragua,jalapa,"Exportadora Atlantic, S.A.",Caturra,7.17,7,6.92,7,7,7,10,10,10,78.83
+1208,United States (Hawaii),kona,Eileen Koyanagi,,7.5,6.92,6.92,7.25,7.58,7.42,9.33,9.33,9.33,78.75
+1209,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.33,7.08,6.33,7.25,7,7,10,10,10,78.75
+1210,Mexico,veracruz,OCTAVIO AUGUSTO DIAZ TREJO,Typica,7.25,6.83,6.83,7,7.17,7,10,10,10,78.75
+1211,Mexico,veracruz,DAMASO MARTINEZ PEREZ,Typica,7.25,7.33,7.17,7.25,7.08,7,8.67,10,10,78.75
+1212,Mexico,"ohuapan, tlaltetela","PRODUCTORES DE ESPECIALIDAD EMILIANO ZAPEATA, SPR.",Bourbon,7.67,7.17,6.83,7.33,7.58,7.17,9.33,10,8.67,78.75
+1213,China,yunnan,Adam Ciruli Ye,Typica,7,6.92,6.83,7.17,7.17,7.17,10,10,9.33,78.67
+1214,Mexico,yecuatla,JUAN GARCIA HERNANDEZ,Caturra,6.92,6.92,6.67,7.25,7.17,6.92,10,10,10,78.67
+1215,Nicaragua,nueva segovia,"Exportadora Atlantic, S.A.",,7.08,7,6.75,6.83,7.08,6.92,10,10,10,78.58
+1216,Nicaragua,,"Exportadora Atlantic, S.A.",,6.83,7.08,6.92,6.75,7.25,7.08,10,10,10,78.58
+1217,Guatemala,oriente,Juan Luis Alvarado Romero,Other,7.33,7.17,6.92,7.58,7.25,7.17,8.67,9.33,10,78.58
+1218,Taiwan,"dongshan dist., tainan city 臺南市東山區","Lin, Che-Hao Krude 林哲豪",Typica,6.83,6.75,7.17,7.25,7,6.92,10,10,10,78.58
+1219,Mexico,tapachula,ALFREDO BOJALIL,Typica,7,7,6.75,7.33,6.92,6.92,10,10,10,78.58
+1220,Mexico,cofradia de suchitlan,ORGANIZACIONES DE PRODUCTORES DE CAFE COLIMENSE,Typica,7.92,7.58,7.58,7.92,7.92,7.5,8,6.67,10,78.58
+1221,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,,7.92,6.83,7.08,7.42,6.75,7.33,8.67,9.33,10,78.58
+1222,Mexico,"sierra, chiapas",Kurt Kappeli,Bourbon,7.25,6.75,6.92,6.92,7.25,7.58,9.33,9.33,10,78.5
+1223,Mexico,villa talea de castro,ROSARIO MIGUEL HERNANDEZ,Typica,7.08,6.83,6.83,7,7,6.92,10,10,10,78.5
+1224,Mexico,los angeles,FRANCISCO RUIZ NUNEZ,Caturra,7.25,7.17,7,6.83,7.58,7.08,8.67,10,10,78.5
+1225,Brazil,monte carmelo,BOURBON SPECIALTY COFFEES,Catuai,6.83,7,6.92,7.08,6.92,6.83,10,10,10,78.42
+1226,Mexico,zaragoza itundujia,ISRAEL EDUARDO PAZ GARCIA,Typica,7.58,7.17,7,7.17,7.33,7,8,10,10,78.42
+1227,United States (Hawaii),kona,Eileen Koyanagi,Hawaiian Kona,7.5,7.75,7.58,7.83,7.92,7.92,7.33,8,8.67,78.33
+1228,Guatemala,oriente,Juan Luis Alvarado Romero,Other,7.17,6.5,6.67,7,7.17,7.17,10,10,10,78.33
+1229,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.17,7.17,6.5,7.17,7,6.83,10,10,10,78.33
+1230,Mexico,"xochitonalco, huautla        ",PABLO CERVANTES MORELOS        ,Typica,7.25,7.25,7,7.5,7.33,7.42,8,9.33,10,78.33
+1231,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.17,6.08,6.17,7.25,7.33,7.33,10,10,10,78.33
+1232,United States (Hawaii),kona,Eileen Koyanagi,Hawaiian Kona,7.5,7.5,7.33,7.58,7.5,7.42,8.67,8.67,8.67,78.25
+1233,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.42,7.33,7.33,7.5,7.67,7.75,8,8.67,9.33,78.25
+1234,Indonesia,ijen,SanJava Coffee,Java,6.92,6.83,6.92,6.92,6.92,6.83,10,10,10,78.17
+1235,Mexico,cordoba,GUSTAVO AMIEVA GONZALEZ,Typica,7.08,6.83,6.67,7.25,7.25,6.92,10,9.33,10,78.08
+1236,Taiwan,"台南市東山區( dongshan dist., tainan city)","Lin, Che-Hao Krude 林哲豪",Yellow Bourbon,7.5,7.08,7.33,7.17,7.5,7.5,6.67,10,10,78
+1237,Honduras,intibuca,CAFES FINOS DE EXPORTACION S DE R.L.,Pacas,6.83,7,6.67,7,7,6.83,10,10,10,78
+1238,United States (Hawaii),kona,Eileen Koyanagi,Hawaiian Kona,7.58,7.33,7.5,7.42,7.5,7.33,8,8.67,9.33,78
+1239,Guatemala,oriente,Juan Luis Alvarado Romero,Other,7.42,7.25,6.83,7.33,7,6.92,9.33,9.33,9.33,78
+1240,China,yunnan,Samuel Eli Gurel,Typica,7.33,7.17,6.92,7.08,7.33,7,9.33,9.33,9.33,78
+1241,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7,6.83,6.83,7.17,6.67,6.83,10,10,10,78
+1242,Mexico,"motozintla, chiapas",ALEJANDRO GARCIA PALACIOS,Other,7.25,7.33,7,7,7.25,7.08,10,10,8,78
+1243,Colombia,,Mao-Heng Chu,,7.42,7.17,7,7.17,7.67,7.17,8.67,9.33,9.33,78
+1244,Costa Rica,occidental,Santa Laura Exportadora de Cafe S.L.E.C. S.A.,Caturra,7.5,7.25,7.42,7,7.08,6.83,8.67,9.33,10,77.92
+1245,Mexico,petatlan,GUSTAVO ABARCA SOLIS,Typica,7.42,7.25,7,7,7.25,7.08,8,10,10,77.92
+1246,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.17,6.17,6.17,7.08,7.33,6.83,10,10,10,77.92
+1247,Nicaragua,jinotega,"BENCAFE, S. A.",,7.42,7,7,7.17,7.08,7,9.33,8.67,10,77.83
+1248,Brazil,,Cafe Politico,,7,6.75,6.67,6.83,7.08,6.83,10,10,10,77.83
+1249,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7,6.83,6.67,7.17,6.83,6.83,10,10,10,77.83
+1250,Taiwan,"dongshan dist., tainan city 臺南市東山區","Lin, Che-Hao Krude 林哲豪",Typica,7.17,6.75,6.58,7.33,7.33,7.17,9.33,9.33,10,77.67
+1251,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,,7.58,7.67,7.58,7.67,7.42,7.42,9.33,9.33,6,77.58
+1252,Mexico,coatepec,STEPHANY ESCAMILLA FEMAT,Typica,7.17,6.75,6.58,6.75,6.83,6.75,10,10,10,77.5
+1253,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.08,6.92,6.33,7,6.92,7,10,10,10,77.42
+1254,Brazil,south of minas,Ipanema Coffees,Bourbon,7.5,7.33,7.42,7.58,7.58,6.92,8,8,10,77.33
+1255,Guatemala,oriente,Juan Luis Alvarado Romero,Other,7.33,7,6.83,7.17,7.17,7.17,9.33,9.33,9.33,77.33
+1256,Mexico,zaragoza itundujia,ISRAEL EDUARDO PAZ GARCIA,Typica,7.33,7,6.67,7,6.92,6.92,9.33,9.33,10,77.33
+1257,Haiti,"dondon, haiti",Myriam Kaplan-Pasternak,Typica,6.83,6.83,6.83,6.75,6.92,6.92,9.33,10,10,77.25
+1258,United States (Hawaii),kona,Eileen Koyanagi,,7.08,6.92,6.83,6.67,7.58,7.42,8.67,9.33,10,77.25
+1259,Mexico,"motozintla, chiapas",ALEJANDRO GARCIA PALACIOS,Other,7.08,7,7,7.25,7.33,7.25,8.67,8.67,10,77.17
+1260,Peru,san ignacio,Andrew Bowman,Caturra,7.42,7.75,7.42,7.67,7.92,7.83,8.67,5.33,9.33,77
+1261,India,chickmangalore,Joshua Marsceau,,7.67,7.33,7.17,6.67,7.17,7.42,9.33,10,6.67,76.83
+1262,Mexico,"pluma hidalogo, oaxaca",Masamichi Hiroike,Typica,6.67,6.33,6.42,6.83,7,6.92,10,10,10,76.75
+1263,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,6.42,6.5,6.5,7.33,6.33,6.92,10,10,10,76.5
+1264,Mexico,coatepec,HOMERO ANTONIO DE ANDA ANDRADE,Typica,7.17,6.58,6.58,7,7.25,6.58,9.33,9.33,10,76.42
+1265,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.5,7,6.83,7.5,7.17,7.33,8.67,8.67,8.67,76.33
+1266,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,6.17,6.5,6.5,7.17,7,6.83,10,10,10,76.33
+1267,United States (Hawaii),kona,Eileen Koyanagi,Hawaiian Kona,7.25,7.08,6.83,7.17,7.33,6.83,8.67,8.67,9.33,76.25
+1268,United States (Hawaii),kona,Eileen Koyanagi,,7.5,7.33,7.33,7.58,7.67,7.25,8,8,8,76.17
+1269,Mexico,zaragoza itundujia,ISRAEL EDUARDO PAZ GARCIA,Typica,7.42,7,6.83,7.08,6.92,6.83,7.33,10,10,76.17
+1270,Indonesia,indonesia,William Ho,Other,7.33,7,6.5,6.08,7.58,6.33,9.33,10,9.33,76.17
+1271,Mexico,tepictla,GUILLERMO EDUARDO BOBADILLA MUGUIRA,Bourbon,7.08,6.83,6.83,7.17,7.17,7.08,10,7.33,10,76.08
+1272,Honduras,intibuca,CAFES FINOS DE EXPORTACION S DE R.L.,Pacas,6.83,6.83,6.67,6.83,7,6.83,9.33,8.67,10,76
+1273,Philippines,"benguet, mountain province",Ana Gonzales,,6.83,6.5,6.5,6.92,6.75,7,9.33,10,9.33,75.83
+1274,Brazil,monte carmelo,Volcafe Ltda. - Brasil,,7.17,7,6.83,7.5,7.17,7,8,8,10,75.67
+1275,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,7.92,7.58,7.17,7.58,7.33,7.17,8,8,8,75.58
+1276,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,6.67,6.5,6.33,7,7.17,6.75,8.67,10,10,75.58
+1277,Mexico,tlacuilotepec,JUANA RODRIGUEZ GUTIERREZ,Pacamara,7.5,7.25,6.92,7,7.17,6.83,8,8,10,75.5
+1278,Mexico,ocosingo,FRANCISCO HERNANDEZ LORENZO,Mundo Novo,7.17,6.92,6.67,6.83,7.25,7.75,10,6,10,75.17
+1279,Mexico,,MONTEGRANDE,Other,7.25,6.83,6.67,7.08,7.17,6.83,10,6.67,10,75.17
+1280,Mexico,huautla de jimenez,MARTIN JIMENEZ CASIANO,Typica,7.17,7.17,6.83,7.17,7.42,6.67,8.67,7.33,10,75.17
+1281,Mexico,menglian,"GRUPO JUVENIL MAGTAYANI, AC",Typica,7,6.92,6.75,6.92,7.17,6.83,10,6.67,10,75
+1282,Mexico,zaragoza itundujia,ISRAEL EDUARDO PAZ GARCIA,Typica,7.08,6.75,6.58,7,7,6.75,8.67,8.67,10,74.92
+1283,Mexico,coatepec,PABLO ENRIQUE MARTINEZ GAMA,Typica,7.33,6.75,6.67,7.25,7.5,7,10,5.33,10,74.83
+1284,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,6.75,6.5,6.17,7,7.25,6.75,8,10,10,74.75
+1285,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,6.75,6.67,6.17,7.17,7,6.58,8,10,10,74.75
+1286,Mexico,chiapas,NESTOR MENDEZ GOMEZ,Typica,7.08,7,6.83,7.5,7.33,6.83,8,7.33,10,74.67
+1287,United States (Hawaii),kona,Eileen Koyanagi,Hawaiian Kona,7.5,7.25,7,7.25,7.42,7.33,8,8.67,6.67,74.42
+1288,Guatemala,oriente,Juan Luis Alvarado Romero,Bourbon,6.5,6.33,6.5,7.5,7.33,6.83,8.67,10,8.67,74.33
+1289,Mexico,"chocaman, veracruz",JORGE OCTAVIO ESCAMILLA PRADO,Typica,7,6.58,6.67,6.83,7.08,6.83,10,6.67,10,74.33
+1290,Mexico,xalapa,MYRNA ROXANA GALVEZ GONZALEZ,Typica,6.92,6.42,6.17,7.33,7.25,6.75,10,6.67,10,74
+1291,Mexico,coatepec,EUGENE HOLMAN PEW,Typica,7.67,7,7.17,7.58,7.33,7.33,10,2.67,10,73.83
+1292,United States (Hawaii),kona,Kona Pacific Farmers Cooperative,Hawaiian Kona,7.17,7.17,7.17,7.58,7.67,6.92,9.33,6.67,6.67,73.67
+1293,Brazil,campos altos - cerrado,BOURBON SPECIALTY COFFEES,,7.25,6.58,6.58,7,7,6.42,8,8,10,73.5
+1294,Honduras,intibuca,CAFES FINOS DE EXPORTACION S DE R.L.,Pacas,7,7.17,6.83,7.17,7,7.17,8,8,8,73.42
+1295,Mexico,sierra alta mixe y zapoteca,Kurt Kappeli,Typica,7.08,7.08,6.92,7.08,6.92,6.92,8,8,8,72.92
+1296,Colombia,,Honor dela Fuente,,8,7.33,7.75,7.33,7.42,7.67,6.67,6.67,6.67,72.83
+1297,United States (Hawaii),kona,Eileen Koyanagi,Hawaiian Kona,6.92,6.92,6.92,7.5,7.58,7.17,6.67,6.67,9.33,72.58
+1298,Haiti,marmelade,Myriam Kaplan-Pasternak,,6.92,6.75,7.08,7.17,7.33,6.67,10,5.33,8.67,72.33
+1299,Costa Rica,occidental,Santa Laura Exportadora de Cafe S.L.E.C. S.A.,Caturra,6.33,6.5,6.33,6.83,6.33,6.5,10,6.67,10,71.75
+1300,Mexico,tlatlauquitepec,JOSE ARMANDO NORBERTO BORZANI LEMINI,Mundo Novo,6.92,6.92,6.92,6.92,7.17,7,10,2.67,10,71.08
+1301,Mexico,veracruz,RICARDO AARON SAMPIERI MARINI,Bourbon,6.5,6.67,6.42,7.17,7.33,6.5,8,6,10,71
+1302,Mexico,"sierra norte yajalon, chiapas",Kurt Kappeli,Typica,6.92,7,6.83,6.92,7.42,6.92,6,6,10,70.75
+1303,Brazil,cerrado,Volcafe Ltda. - Brasil,,7,7,6.83,7,7.33,6.83,6,6,10,70.67
+1304,Honduras,marcala,CADEXSA,Catuai,6.67,6.5,6.17,6.67,6.83,6.17,8,8,8,69.33
+1305,Honduras,marcala,CADEXSA,Catuai,7,6.17,6.17,6.67,6.5,6.17,8,8,8,69.17
+1306,Honduras,marcala,CADEXSA,Catuai,7,6.33,6.17,6.5,6.67,6.17,8,8,8,69.17
+1307,Mexico,juchique de ferrer,JUAN CARLOS GARCIA LOPEZ,Bourbon,7.08,6.83,6.25,7.42,7.25,6.75,10,0,10,68.33
+1308,Haiti,"department d'artibonite , haiti",Myriam Kaplan-Pasternak,Typica,6.75,6.58,6.42,6.67,7.08,6.67,9.33,6,6,67.92
+1309,Nicaragua,jalapa,"Exportadora Atlantic, S.A.",Caturra,7.25,6.58,6.33,6.25,6.42,6.08,6,6,6,63.08
+1310,Guatemala,nuevo oriente,Juan Luis Alvarado Romero,Catuai,7.5,6.67,6.67,7.67,7.33,6.67,8,1.33,1.33,59.83
+1312,Honduras,comayagua,Bismarck Castro,Caturra,0,0,0,0,0,0,0,0,0,0
