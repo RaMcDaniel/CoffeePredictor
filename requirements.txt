@@ -3,3 +3,12 @@ https://download.pytorch.org/whl/cpu/torchvision-0.7.0%2Bcpu-cp36-cp36m-linux_x8
 fastai
 voila
 ipywidgets
+import pandas as pd
+import numpy as np
+%matplotlib inline
+import matplotlib.pyplot as plt
+import sklearn
+import seaborn as sns
+sns.set_theme(style='darkgrid')
+import ipywidgets as widgets
+from ipywidgets import interact, interact_manual
